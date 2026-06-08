@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IELTS Speaking Random Topic Generator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="page-header">
+        <p class="eyebrow">Band 6.5 IELTS Speaking Practice</p>
+        <h1>IELTS Speaking Random Topic Generator</h1>
+        <p class="subtitle">Practice one topic every day to build fluency and workplace confidence.</p>
+      </header>
+
+      <main>
+        <section class="top-panel" aria-label="Topic controls">
+          <div class="tabs" role="tablist" aria-label="Topic categories">
+            <button
+              class="tab-button"
+              id="tab-general"
+              type="button"
+              role="tab"
+              aria-selected="true"
+              aria-controls="practice-card"
+              data-category-key="general"
+            >
+              General Topics
+            </button>
+            <button
+              class="tab-button tab-healthcare"
+              id="tab-healthcare"
+              type="button"
+              role="tab"
+              aria-selected="false"
+              aria-controls="practice-card"
+              data-category-key="healthcare"
+            >
+              Healthcare / Hospital Operations
+            </button>
+          </div>
+
+          <aside class="mission-box" aria-live="polite">
+            <span>Today's Speaking Mission</span>
+            <p id="mission-text"></p>
+          </aside>
+        </section>
+
+        <section class="practice-card" id="practice-card" aria-live="polite">
+          <div class="card-header">
+            <div>
+              <p class="category-badge" id="category-badge"></p>
+              <h2 id="main-topic"></h2>
+            </div>
+
+            <div class="button-row">
+              <button class="primary-button" id="generate-button" type="button">Generate New Topic</button>
+              <button class="secondary-button" id="copy-button" type="button">Copy Topic</button>
+            </div>
+          </div>
+
+          <p class="practice-note">Try to speak for 2 minutes before checking vocabulary.</p>
+
+          <div class="content-grid">
+            <article class="content-section">
+              <h3>IELTS Speaking Part 1 Questions</h3>
+              <ol id="part1-list"></ol>
+            </article>
+
+            <article class="content-section cue-card">
+              <h3>IELTS Speaking Part 2 Cue Card</h3>
+              <p id="cue-task" class="cue-task"></p>
+              <p class="small-heading">You should say:</p>
+              <ul id="cue-bullets"></ul>
+            </article>
+
+            <article class="content-section">
+              <h3>IELTS Speaking Part 3 Discussion Questions</h3>
+              <ol id="part3-list"></ol>
+            </article>
+
+            <article class="content-section wide-section">
+              <h3>Suggested Band 6.5 Collocations</h3>
+              <div id="collocation-list" class="collocation-list"></div>
+            </article>
+
+            <article class="content-section wide-section">
+              <h3>Useful Sentence Frames</h3>
+              <ul id="sentence-frame-list" class="frame-list"></ul>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
