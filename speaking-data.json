@@ -1,0 +1,3005 @@
+[
+  {
+    "id": "vstep-001",
+    "catalogIndex": 1,
+    "sourcePage": 1,
+    "part": 1,
+    "title": "BTVN Speaking Part 1 — School & Future Job",
+    "url": "https://vstepup.vn/luyen-tap-vstep/btvn-speaking-part-1-%E2%80%94-school---future-job",
+    "questions": [
+      "What is your favourite subject at school? Why?",
+      "Do you think the subjects you study at school are useful for your future career?",
+      "Is there a subject you wish you could learn at school but it is not available?",
+      "What kind of job would you like to have in the future?",
+      "What skills do you think are important for getting a good job?",
+      "Would you prefer to work for a company or run your own business? Why?"
+    ]
+  },
+  {
+    "id": "vstep-002",
+    "catalogIndex": 2,
+    "sourcePage": 1,
+    "part": 1,
+    "title": "BTVN Speaking Part 1 — Food & Health, Shopping",
+    "url": "https://vstepup.vn/luyen-tap-vstep/btvn-speaking-part-1-%E2%80%94-food---health--shopping",
+    "questions": [
+      "What kind of food do you usually eat?",
+      "Do you think people in your country eat healthily? Why or why not?",
+      "What do you do to stay healthy?",
+      "Do you enjoy shopping? Why or why not?",
+      "Do you prefer shopping online or going to a store? Why?",
+      "What was the last thing you bought that made you really happy?"
+    ]
+  },
+  {
+    "id": "vstep-003",
+    "catalogIndex": 3,
+    "sourcePage": 1,
+    "part": 1,
+    "title": "BTVN Speaking Part 1 — Hobbies & Family",
+    "url": "https://vstepup.vn/luyen-tap-vstep/btvn-speaking-part-1-%E2%80%94-hobbies---family",
+    "questions": [
+      "What do you usually do in your free time?",
+      "Do you prefer indoor or outdoor hobbies? Why?",
+      "Have you recently started any new hobbies?",
+      "How many people are there in your family?",
+      "Do you enjoy spending time with your family? What do you usually do together?",
+      "Who in your family are you closest to? Why?"
+    ]
+  },
+  {
+    "id": "vstep-004",
+    "catalogIndex": 4,
+    "sourcePage": 1,
+    "part": 1,
+    "title": "13/03/26 AJC SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/13-03-26-ajc-speaking-part-1",
+    "questions": [
+      "1. What do you usually have for breakfast?",
+      "2. Do you think breakfast is important? Why?",
+      "3. Do you prefer eating at home or outside?",
+      "4. How often do you use your mobile phone?",
+      "5. What do you usually use it for?",
+      "6. Do you think people depend too much on mobile phones? Why?"
+    ]
+  },
+  {
+    "id": "vstep-005",
+    "catalogIndex": 5,
+    "sourcePage": 1,
+    "part": 3,
+    "title": "ĐỀ SPEAKING PART 3 UPLOAD 11/03/26",
+    "url": "https://vstepup.vn/luyen-tap-vstep/de-speaking-part-3-upload-11-03-26",
+    "prompt": "The recognition of AI is becoming increasingly widespread and is being applied by people in everyday life",
+    "points": [
+      "Technology",
+      "Daily task",
+      "learning aid",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "What do you think about the increasing use of AI in daily life?",
+      "In what ways has AI changed the way people live and work?",
+      "Do you believe AI will become a necessary part of modern life in the future? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-006",
+    "catalogIndex": 6,
+    "sourcePage": 1,
+    "part": 2,
+    "title": "ĐỀ SPEAKING PART 2 UPLOAD 11/03/26",
+    "url": "https://vstepup.vn/luyen-tap-vstep/de-speaking-part-2-upload-11-03-26",
+    "prompt": "Situation: Which guitar course will you learn?",
+    "points": [
+      "Using an app",
+      "Learning by yourself",
+      "Taking a course"
+    ]
+  },
+  {
+    "id": "vstep-007",
+    "catalogIndex": 7,
+    "sourcePage": 1,
+    "part": 1,
+    "title": "ĐỀ SPEAKING PART 1 UPLOAD 11/03/26",
+    "url": "https://vstepup.vn/luyen-tap-vstep/de-speaking-part-1-upload-11-03-26",
+    "questions": [
+      "1. How do you usually keep in touch with members of your family?",
+      "2. Do you prefer to speak to people through your phone or writing e-mails?",
+      "3. How often do you use your phone?",
+      "4. Do you like taking photos? Why/ Why not?",
+      "5. Do you prefer to take photos yourself or to have someone take your photos?",
+      "6.Do you prefer to take pictures of people or scenery?"
+    ]
+  },
+  {
+    "id": "vstep-008",
+    "catalogIndex": 8,
+    "sourcePage": 1,
+    "part": 3,
+    "title": "ĐỀ SPEAKING PART 3 UPLOAD 10/3/26",
+    "url": "https://vstepup.vn/luyen-tap-vstep/de-speaking-part-3-upload-10-3-26",
+    "prompt": "How do you manage your time effectively between work and personal life?",
+    "points": [
+      "Make a daily schedule",
+      "Set priorities",
+      "Avoid distractions",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "Do you think people nowadays work too much? Why or why not?",
+      "Do you think technology makes it easier or harder to manage time?",
+      "Why is time management important in modern life?"
+    ]
+  },
+  {
+    "id": "vstep-009",
+    "catalogIndex": 9,
+    "sourcePage": 1,
+    "part": 2,
+    "title": "ĐỀ SPEAKING PART 2 UPLOAD 10/3/26",
+    "url": "https://vstepup.vn/luyen-tap-vstep/de-speaking-part-2-upload-10-3-26",
+    "prompt": "Situation:",
+    "points": [
+      "Your friend has an eight-year-old child. Which place will you take them to?",
+      "Going to the zoo",
+      "Going to the park",
+      "Going to the aquarium"
+    ]
+  },
+  {
+    "id": "vstep-010",
+    "catalogIndex": 10,
+    "sourcePage": 1,
+    "part": 1,
+    "title": "ĐỀ SPEAKING PART 1 UPLOAD 10/3/26",
+    "url": "https://vstepup.vn/luyen-tap-vstep/de-speaking-part-1-upload-10-3-26",
+    "questions": [
+      "1) What is the most common means of transport in your country?",
+      "2) Do traffic jams often occur in your hometown or in the city where you live? What do you suggest to solve the problem?",
+      "3) What changes in transportation have taken place in the past several years in Vietnam?",
+      "4) How to have a good sleep?",
+      "5) Do you like to get up early in the morning?",
+      "6) Can you sleep well if you are in a noisy environment?"
+    ]
+  },
+  {
+    "id": "vstep-011",
+    "catalogIndex": 11,
+    "sourcePage": 1,
+    "part": 3,
+    "title": "08/02/26 HNUE SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/08-02-26-hnue-speaking-part-3",
+    "prompt": "Recycling in modern society",
+    "points": [
+      "Reduces waste",
+      "Saves natural resources",
+      "Protects the environment",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "What are the benefits of recycling?",
+      "Have you ever taken part in recycling activities? If yes, how?",
+      "What should the government do to encourage people to recycle more?",
+      "Why do some people seem indifferent to recycling?"
+    ]
+  },
+  {
+    "id": "vstep-012",
+    "catalogIndex": 12,
+    "sourcePage": 1,
+    "part": 2,
+    "title": "08/02/26 HNUE SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/08-02-26-hnue-speaking-part-2",
+    "prompt": "Situation:",
+    "points": [
+      "Your friend has received a job offer from a new company and is unsure whether to accept it.",
+      "There are three important factors to consider:",
+      "Safety at the workplace",
+      "Salary",
+      "Opportunities for promotion",
+      "Discuss the advantages and disadvantages of each factor.",
+      "Then decide which factor is the most important and give reasons to support your opinion."
+    ]
+  },
+  {
+    "id": "vstep-013",
+    "catalogIndex": 13,
+    "sourcePage": 2,
+    "part": 1,
+    "title": "08/02/26 HNUE SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/08-02-26-hnue-speaking-part-1",
+    "questions": [
+      "What kind of music do you usually listen to?",
+      "When do you often listen to music?",
+      "Do you think music can influence people’s mood? Why or why not?",
+      "Do you prefer the colour black or white? Why?",
+      "What factors influence your choice of colours (e.g. clothes, home decoration, personal items)?",
+      "Do you think colours can reflect a person’s mood or feelings? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-014",
+    "catalogIndex": 14,
+    "sourcePage": 2,
+    "part": 3,
+    "title": "10/02/26 HANU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/10-02-26-hanu-speaking-part-3",
+    "prompt": "Public libraries in modern society",
+    "points": [
+      "Free access to knowledge",
+      "Community learning space",
+      "Digital information resources",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "How are public libraries today different from libraries in the past?",
+      "What role do public libraries play in supporting disadvantaged or low-income communities?",
+      "Do you think public libraries will disappear in the future? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-015",
+    "catalogIndex": 15,
+    "sourcePage": 2,
+    "part": 2,
+    "title": "10/02/26 HANU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/10-02-26-hanu-speaking-part-2",
+    "prompt": "Situation:",
+    "points": [
+      "You suddenly receive a large amount of money transferred into your bank account by mistake. You are considering three options:",
+      "Keep the money and spend it",
+      "Inform the bank about the mistake",
+      "Report the situation to the police",
+      "Task:",
+      "Discuss the advantages and disadvantages of each option and decide what you would do. Explain your reasons."
+    ]
+  },
+  {
+    "id": "vstep-016",
+    "catalogIndex": 16,
+    "sourcePage": 2,
+    "part": 1,
+    "title": "10/02/26 HANU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/10-02-26-hanu-speaking-part-1",
+    "questions": [
+      "Do you like playing sports? Why or why not?",
+      "Have you ever taken part in a sports competition?",
+      "What kinds of sports events are popular in your country?",
+      "What do you do to stay healthy?",
+      "Do you think young people today are healthier than in the past?",
+      "How important is exercise for maintaining good health?"
+    ]
+  },
+  {
+    "id": "vstep-017",
+    "catalogIndex": 17,
+    "sourcePage": 2,
+    "part": 3,
+    "title": "CHIỀU 11/02/26 HANU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/chieu-11-02-26-hanu-speaking-part-3",
+    "prompt": "Divorce in modern society",
+    "points": [
+      "financial burden",
+      "communication problems",
+      "lack of responsibility",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "Do you think divorce has become more common nowadays than in the past? Why or why not?",
+      "How does divorce affect children and other family members?",
+      "Do you think the government or society should do anything to reduce the divorce rate? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-018",
+    "catalogIndex": 18,
+    "sourcePage": 2,
+    "part": 2,
+    "title": "CHIỀU 11/02/26 HANU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/chieu-11-02-26-hanu-speaking-part-2",
+    "prompt": "Situation:",
+    "points": [
+      "You are living in an apartment building. Your neighbor often makes a lot of noise at night, which affects your sleep.",
+      "You have three options:",
+      "Move to another apartment.",
+      "Talk directly to your neighbor.",
+      "Report the problem to the local authorities (the police).",
+      "Discuss the advantages and disadvantages of each option.",
+      "Then decide which option you think is the best and explain why."
+    ]
+  },
+  {
+    "id": "vstep-019",
+    "catalogIndex": 19,
+    "sourcePage": 2,
+    "part": 1,
+    "title": "SPEAKING CHIỀU 11/02/26 HANU SPEAKING PART 1 6 câu hỏi VSTEP",
+    "url": "https://vstepup.vn/luyen-tap-vstep/chieu-11-02-26-hanu-speaking-part-1",
+    "questions": [
+      "Do you like reading books? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-020",
+    "catalogIndex": 20,
+    "sourcePage": 2,
+    "part": 3,
+    "title": "11/02/26 HUST SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/11-02-26-hust-speaking-part-3",
+    "prompt": "Travelling and Personal Development",
+    "points": [
+      "improve themselves",
+      "Skills or experiences",
+      "Advantages and disadvantages",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "Why do many young people enjoy travelling nowadays?",
+      "Do you think travelling abroad is more beneficial than travelling domestically? Why?",
+      "How can people learn new skills without travelling?"
+    ]
+  },
+  {
+    "id": "vstep-021",
+    "catalogIndex": 21,
+    "sourcePage": 2,
+    "part": 2,
+    "title": "11/02/26 HUST SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/11-02-26-hust-speaking-part-2",
+    "prompt": "Situation:",
+    "points": [
+      "You are planning to organize an event for your friends or classmates. You are considering three possible locations:",
+      "A restaurant",
+      "A park or outdoor area",
+      "Your house",
+      "Task:",
+      "Discuss the advantages and disadvantages of each place and decide which is the best choice. Explain your reasons."
+    ]
+  },
+  {
+    "id": "vstep-022",
+    "catalogIndex": 22,
+    "sourcePage": 2,
+    "part": 1,
+    "title": "11/02/26 HUST SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/11-02-26-hust-speaking-part-1",
+    "questions": [
+      "What do you usually do in your free time?",
+      "Do you enjoy attending parties or social events? Why or why not?",
+      "How often do you meet your friends?",
+      "Do you prefer indoor or outdoor activities? Why?",
+      "What place do you like visiting on weekends?"
+    ]
+  },
+  {
+    "id": "vstep-023",
+    "catalogIndex": 23,
+    "sourcePage": 2,
+    "part": 2,
+    "title": "10/02/26 HANU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/10-02-26-hanu-speaking-part-2",
+    "prompt": "Situation:",
+    "points": [
+      "You suddenly receive a large amount of money transferred into your bank account by mistake. You are considering three options:",
+      "Keep the money and spend it",
+      "Inform the bank about the mistake",
+      "Report the situation to the police",
+      "Task:",
+      "Discuss the advantages and disadvantages of each option and decide what you would do. Explain your reasons."
+    ]
+  },
+  {
+    "id": "vstep-024",
+    "catalogIndex": 24,
+    "sourcePage": 2,
+    "part": 1,
+    "title": "10/02/26 HANU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/10-02-26-hanu-speaking-part-1",
+    "questions": [
+      "Do you like playing sports? Why or why not?",
+      "Have you ever taken part in a sports competition?",
+      "What kinds of sports events are popular in your country?",
+      "What do you do to stay healthy?",
+      "Do you think young people today are healthier than in the past?",
+      "How important is exercise for maintaining good health?"
+    ]
+  },
+  {
+    "id": "vstep-025",
+    "catalogIndex": 25,
+    "sourcePage": 3,
+    "part": 3,
+    "title": "06/02/26 HUB SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/06-02-26-hub-speaking-part-3",
+    "prompt": "The Importance of Music",
+    "points": [
+      "The role of music in people's lives",
+      "Benefits of listening to music",
+      "How music affects emotions and mood",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "Why do many people enjoy listening to music while working or studying?",
+      "Do you think music preferences change with age? Why?",
+      "How has technology changed the way people listen to music?"
+    ]
+  },
+  {
+    "id": "vstep-026",
+    "catalogIndex": 26,
+    "sourcePage": 3,
+    "part": 2,
+    "title": "06/02/26 HUB SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/06-02-26-hub-speaking-part-2",
+    "prompt": "Situation:",
+    "points": [
+      "You are planning a party for your friends and are considering three dining options:",
+      "Having a barbecue party",
+      "Eating at a buffet restaurant",
+      "Eating at a restaurant where food is served at the table",
+      "Task:",
+      "Discuss the advantages and disadvantages of each option and decide which is the best choice. Explain your reasons."
+    ]
+  },
+  {
+    "id": "vstep-027",
+    "catalogIndex": 27,
+    "sourcePage": 3,
+    "part": 1,
+    "title": "06/02/26 HUB SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/06-02-26-hub-speaking-part-1",
+    "questions": [
+      "Do you like receiving gifts? Why or why not?",
+      "What kind of gifts do you usually give to your friends or family?",
+      "How often do you use social media?",
+      "What do you usually use social media for?",
+      "Do you think social media is beneficial? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-028",
+    "catalogIndex": 28,
+    "sourcePage": 3,
+    "part": 3,
+    "title": "08/02/26 VLU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/08-02-26-vlu-speaking-part-3",
+    "prompt": "Work–Life Balance",
+    "points": [
+      "The importance of balancing work and personal life",
+      "Problems people face when they do not have a good balance",
+      "Ways to maintain a healthy work-life balance",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "Why do many people find it difficult to balance work and life nowadays?",
+      "Do you think technology makes work–life balance better or worse? Why?",
+      "What can employers do to help employees achieve a better work–life balance?"
+    ]
+  },
+  {
+    "id": "vstep-029",
+    "catalogIndex": 29,
+    "sourcePage": 3,
+    "part": 2,
+    "title": "08/02/26 VLU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/08-02-26-vlu-speaking-part-2",
+    "prompt": "Your university wants to improve sports facilities for students. You are discussing three options:",
+    "points": [
+      "Building a new gym",
+      "Constructing a swimming pool",
+      "Organizing more sports clubs and competitions",
+      "Task:",
+      "Discuss the advantages and disadvantages of each option and decide which is the best choice for students. Explain your reasons."
+    ]
+  },
+  {
+    "id": "vstep-030",
+    "catalogIndex": 30,
+    "sourcePage": 3,
+    "part": 1,
+    "title": "08/02/26 VLU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/08-02-26-vlu-speaking-part-1",
+    "questions": [
+      "What major are you studying?",
+      "What job would you like to do in the next 10 years? Why?",
+      "What indoor activities do you like?",
+      "What indoor activities do you usually do in your free time?",
+      "Do you prefer doing indoor activities alone or with other people? Why?"
+    ]
+  },
+  {
+    "id": "vstep-031",
+    "catalogIndex": 31,
+    "sourcePage": 3,
+    "part": 3,
+    "title": "07/02/26 VLU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/07-02-26-vlu-speaking-part-3",
+    "prompt": "Technology in Education",
+    "points": [
+      "The role of technology in education today",
+      "Benefits of using technology for learning",
+      "Possible problems of technology in education",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "Do you think teachers will be replaced by technology in the future? Why or why not?",
+      "What are the disadvantages of students using too much technology for learning?",
+      "How can schools use technology more effectively in education?"
+    ]
+  },
+  {
+    "id": "vstep-032",
+    "catalogIndex": 32,
+    "sourcePage": 3,
+    "part": 2,
+    "title": "07/02/26 VLU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/07-02-26-vlu-speaking-part-2",
+    "prompt": "Situation:",
+    "points": [
+      "The government wants to improve the quality of healthcare services. You are discussing three possible solutions:",
+      "Investing in modern medical equipment",
+      "Opening more private clinics",
+      "Using patient feedback and reviews to improve hospitals",
+      "Task:",
+      "Discuss the advantages and disadvantages of each solution and decide which is the best option."
+    ]
+  },
+  {
+    "id": "vstep-033",
+    "catalogIndex": 33,
+    "sourcePage": 3,
+    "part": 1,
+    "title": "07/02/26 VLU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/07-02-26-vlu-speaking-part-1",
+    "questions": [
+      "How often do you use technology for learning?",
+      "What devices do you use most?",
+      "Do you think technology is important in education? Why?",
+      "What do you usually do after school or work?",
+      "Do you prefer studying alone or with friends?"
+    ]
+  },
+  {
+    "id": "vstep-034",
+    "catalogIndex": 34,
+    "sourcePage": 3,
+    "part": 3,
+    "title": "06/02/26 VLU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/06-02-26-vlu-speaking-part-3",
+    "prompt": "Spending Holidays at Home",
+    "points": [
+      "Cheap",
+      "Relaxing",
+      "Safe",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "Why do you think many people prefer travelling during holidays instead of staying at home?",
+      "Do you think holidays are becoming more expensive nowadays? Why or why not?",
+      "What can people do to enjoy their holidays without spending too much money?"
+    ]
+  },
+  {
+    "id": "vstep-035",
+    "catalogIndex": 35,
+    "sourcePage": 3,
+    "part": 2,
+    "title": "06/02/26 VLU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/06-02-26-vlu-speaking-part-2",
+    "prompt": "You receive a large amount of money in your bank account by mistake. You are considering three options:",
+    "points": [
+      "Keep the money and say nothing",
+      "Inform the bank about the mistake",
+      "Report the situation to the police",
+      "Task:",
+      "Discuss the advantages and disadvantages of each option and decide what you would do. Explain your reasons."
+    ]
+  },
+  {
+    "id": "vstep-036",
+    "catalogIndex": 36,
+    "sourcePage": 3,
+    "part": 1,
+    "title": "06/02/26 VLU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/06-02-26-vlu-speaking-part-1",
+    "questions": [
+      "What activities do you usually do at school?",
+      "What is your favourite subject? Why?",
+      "How often do you go to the cinema?",
+      "What kind of movies do you like?",
+      "Do you prefer watching movies at home or at the cinema?"
+    ]
+  },
+  {
+    "id": "vstep-037",
+    "catalogIndex": 37,
+    "sourcePage": 4,
+    "part": 3,
+    "title": "07/02/26 CTU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/07-02-26-ctu-speaking-part-3",
+    "prompt": "Ways to Reduce Crime Rates",
+    "points": [
+      "law enforcement",
+      "education",
+      "security cameras",
+      "Your own ideas"
+    ],
+    "followUps": [
+      "Why do you think theft and robbery are increasing in some cities?",
+      "What measures can governments take to reduce crime?",
+      "Do you think people feel safe living in big cities nowadays? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-038",
+    "catalogIndex": 38,
+    "sourcePage": 4,
+    "part": 1,
+    "title": "07/02/26 CTU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/07-02-26-ctu-speaking-part-1",
+    "questions": [
+      "What do you usually do in your free time?",
+      "Do you prefer living in the city or the countryside? Why?",
+      "What kind of place do you enjoy visiting?",
+      "Do you often watch TV or listen to the radio? Why or why not?",
+      "Do you use social media every day?"
+    ]
+  },
+  {
+    "id": "vstep-039",
+    "catalogIndex": 39,
+    "sourcePage": 4,
+    "part": 2,
+    "title": "07/02/26 CTU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/07-02-26-ctu-speaking-part-2",
+    "prompt": "Situation:",
+    "points": [
+      "A company wants to promote tourism in your hometown. You are discussing three possible methods:",
+      "Advertising on television and radio",
+      "Writing promotional content (articles, brochures, magazines)",
+      "Using the Internet and social networking platforms",
+      "Task:",
+      "Discuss the advantages and disadvantages of each method and decide which is the best way to promote tourism in your hometown. Explain your reasons."
+    ]
+  },
+  {
+    "id": "vstep-040",
+    "catalogIndex": 40,
+    "sourcePage": 4,
+    "part": 3,
+    "title": "01/02/26 UFM SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/01-02-26-ufm-speaking-part-3",
+    "prompt": "Internship and Work Experience",
+    "points": [
+      "You should talk about:",
+      "The importance of internships for students",
+      "Skills students can learn from internships",
+      "Challenges students may face during internships",
+      "Your opinion about whether internships should be compulsory"
+    ],
+    "followUps": [
+      "Do you think companies should pay interns? Why or why not?",
+      "What is the difference between learning at university and learning through internships?",
+      "How can universities improve internship opportunities for students?"
+    ]
+  },
+  {
+    "id": "vstep-041",
+    "catalogIndex": 41,
+    "sourcePage": 4,
+    "part": 2,
+    "title": "01/02/26 UFM SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/01-02-26-ufm-speaking-part-2",
+    "prompt": "Situation:",
+    "points": [
+      "You have received 1 billion VND. You are considering three options:",
+      "Starting a business",
+      "Saving the money in a bank",
+      "Buying a new house",
+      "Task:",
+      "Discuss the advantages and disadvantages of each option and decide which is the best choice. Explain your reasons."
+    ]
+  },
+  {
+    "id": "vstep-042",
+    "catalogIndex": 42,
+    "sourcePage": 4,
+    "part": 1,
+    "title": "01/02/26 UFM SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/01-02-26-ufm-speaking-part-1",
+    "questions": [
+      "Do you use AI tools to help your English learning? Why or why not?",
+      "What AI tools do you usually use? (For example: ChatGPT or others)",
+      "Do you think AI can help teachers? In what ways?",
+      "What usually makes you feel sad?",
+      "What do you often do when you feel sad?"
+    ]
+  },
+  {
+    "id": "vstep-043",
+    "catalogIndex": 43,
+    "sourcePage": 4,
+    "part": 3,
+    "title": "16/01/26 HUB SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/16-01-26-hub-speaking-part-3",
+    "prompt": "Leadership plays an important role in helping teams work more effectively. People believe that good leadership brings several benefits, such as:",
+    "points": [
+      "improving team performance and productivity",
+      "building trust among team members",
+      "encouraging responsibility and accountability",
+      "managing risks and solving problems efficiently"
+    ],
+    "followUps": [
+      "1. Do you think a good leader should focus more on people or on results? Why?",
+      "2. How can leaders build trust within their team?",
+      "3. Why is risk management important in teamwork and leadership?",
+      "4. What qualities make a leader effective in difficult situations?",
+      "5. Do you think leadership skills can be learned, or are they natural? Why?"
+    ]
+  },
+  {
+    "id": "vstep-044",
+    "catalogIndex": 44,
+    "sourcePage": 4,
+    "part": 2,
+    "title": "16/01/26 HUB SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/16-01-26-hub-speaking-part-2",
+    "prompt": "Situation: Your friend wants to read a book to explore a new world and gain new experiences.",
+    "points": [
+      "Here are three options:",
+      "A mystery novel",
+      "A romance novel",
+      "A science book",
+      "You should:",
+      "Discuss the advantages and disadvantages of each option",
+      "Decide which book is the best choice",
+      "Explain the reason for your decision"
+    ]
+  },
+  {
+    "id": "vstep-045",
+    "catalogIndex": 45,
+    "sourcePage": 4,
+    "part": 1,
+    "title": "16/01/26 HUB SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/16-01-26-hub-speaking-part-1",
+    "questions": [
+      "What new habits have you developed recently?",
+      "Why do you think forming good habits is important?",
+      "If you could recommend one new habit to young people, what would it be? Why?",
+      "How can habits affect a person’s success in life?"
+    ]
+  },
+  {
+    "id": "vstep-046",
+    "catalogIndex": 46,
+    "sourcePage": 4,
+    "part": 3,
+    "title": "01/02/26 HUIT SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/01-02-26-huit-speaking-part-3",
+    "prompt": "Many people choose to spend their holidays at home instead of travelling. People believe that staying at home during holidays brings several benefits, such as:",
+    "points": [
+      "being inexpensive",
+      "helping people relax",
+      "being safe and convenient"
+    ],
+    "followUps": [
+      "1. Do you think spending holidays at home is a good choice? Why or why not?",
+      "2. Do you prefer to enjoy your holidays alone or with a group of people? Why?",
+      "3. What are the disadvantages of staying at home during holidays?",
+      "4. How can people make their holidays at home more enjoyable?"
+    ]
+  },
+  {
+    "id": "vstep-047",
+    "catalogIndex": 47,
+    "sourcePage": 4,
+    "part": 2,
+    "title": "01/02/26 HUIT SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/01-02-26-huit-speaking-part-2",
+    "prompt": "Imagine that someone accidentally transfers money to your bank account. There are three possible actions below.",
+    "points": [
+      "Choose ONE option and explain why you would do that.",
+      "Option A: Keep it secret and do nothing.",
+      "Option B: Inform your bank/account provider about the mistake.",
+      "Option C: Report the case to the police."
+    ]
+  },
+  {
+    "id": "vstep-048",
+    "catalogIndex": 48,
+    "sourcePage": 4,
+    "part": 1,
+    "title": "01/02/26 HUIT SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/01-02-26-huit-speaking-part-1",
+    "questions": [
+      "Do you often take part in school activities? Why/Why not?",
+      "What was the last school activity you joined?",
+      "What school activity do you like most? Why?",
+      "How often do you watch movies?",
+      "Do you prefer watching movies at home or at the cinema? Why?",
+      "Do you usually watch movies alone or with your family? Why?"
+    ]
+  },
+  {
+    "id": "vstep-049",
+    "catalogIndex": 49,
+    "sourcePage": 5,
+    "part": 3,
+    "title": "30/01/26 HANU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/30-01-26-hanu-speaking-part-3",
+    "prompt": "Many people experience stress at work. It is believed that stress at work can be caused by several factors, such as:",
+    "points": [
+      "low salary",
+      "tight deadlines",
+      "lack of motivation",
+      "..."
+    ],
+    "followUps": [
+      "1. Do you think stress at work is becoming more common nowadays? Why or why not?",
+      "2. Which factor do you think causes the most stress: low salary or tight deadlines? Why?",
+      "3. How can employers help reduce stress for their employees?",
+      "4. How can workers manage stress better in their daily lives?"
+    ]
+  },
+  {
+    "id": "vstep-050",
+    "catalogIndex": 50,
+    "sourcePage": 5,
+    "part": 2,
+    "title": "30/01/26 HANU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/30-01-26-hanu-speaking-part-2",
+    "prompt": "You are planning to meet a friend in the evening. There are three options below. Choose ONE option and explain why you choose it.",
+    "points": [
+      "Option A: Meet in a garden",
+      "Option B: Go to the cinema",
+      "Option C: Meet in the living room"
+    ]
+  },
+  {
+    "id": "vstep-051",
+    "catalogIndex": 51,
+    "sourcePage": 5,
+    "part": 1,
+    "title": "30/01/26 HANU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/30-01-26-hanu-speaking-part-1",
+    "questions": [
+      "Do you have any goals for the future?",
+      "What is your most important goal right now? Why?",
+      "Do you think setting goals is important? Why/Why not?",
+      "How often do you go shopping?",
+      "Do you prefer shopping online or in stores? Why?",
+      "What do you usually buy when you go shopping?"
+    ]
+  },
+  {
+    "id": "vstep-052",
+    "catalogIndex": 52,
+    "sourcePage": 5,
+    "part": 3,
+    "title": "23/01/26 HUB SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/23-01-26-hub-speaking-part-3",
+    "prompt": "Many students choose to join clubs at school or in their community. People believe that taking part in clubs brings several benefits, such as:",
+    "points": [
+      "improving social skills",
+      "developing teamwork and leadership",
+      "gaining new knowledge and practical experience"
+    ],
+    "followUps": [
+      "Do you think students should be encouraged to join at least one club? Why or why not?",
+      "Which type of club do you think is more useful: academic clubs or sports clubs?",
+      "How can schools support students in participating in club activities?"
+    ]
+  },
+  {
+    "id": "vstep-053",
+    "catalogIndex": 53,
+    "sourcePage": 5,
+    "part": 2,
+    "title": "23/01/26 HUB SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/23-01-26-hub-speaking-part-2",
+    "prompt": "After graduating, you are deciding where to find a job. You have three options:",
+    "points": [
+      "working in your hometown",
+      "working in your city",
+      "working in a foreign country",
+      "Choose ONE option and explain why it is the best choice.",
+      "You should also explain why the other two options are less suitable.",
+      "You have 1 minute to prepare and 2 minutes to speak."
+    ]
+  },
+  {
+    "id": "vstep-054",
+    "catalogIndex": 54,
+    "sourcePage": 5,
+    "part": 1,
+    "title": "23/01/26 HUB SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/23-01-26-hub-speaking-part-1",
+    "questions": [
+      "Do you often return to your hometown? Why or why not?",
+      "What do you like most about your hometown?",
+      "If you could change one thing about your hometown, what would it be?",
+      "What kind of public transportation do you like most in your hometown?",
+      "Why do you prefer that type of transportation?"
+    ]
+  },
+  {
+    "id": "vstep-055",
+    "catalogIndex": 55,
+    "sourcePage": 5,
+    "part": 3,
+    "title": "06/12/25 TNU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/06-12-25-tnu-speaking-part-3",
+    "prompt": "Innovation plays an important role in modern society. Some people believe that innovation helps improve quality of life, while others think it can create challenges such as job loss or social inequality.",
+    "points": [
+      "Discuss the importance of innovation in today’s world. You should use the ideas below and add at least one more idea of your own:",
+      "improving technology and efficiency",
+      "supporting economic growth",
+      "creating challenges for workers"
+    ],
+    "followUps": [
+      "How can innovation benefit young people in the future?",
+      "Do you think innovation should be controlled or encouraged? Why?",
+      "Can innovation change the way people live and work? How?"
+    ]
+  },
+  {
+    "id": "vstep-056",
+    "catalogIndex": 56,
+    "sourcePage": 5,
+    "part": 2,
+    "title": "06/12/25 TNU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/06-12-25-tnu-speaking-part-2",
+    "prompt": "Your neighbor has an 11-year-old child and wants to take them on a fun outing. You are considering three places:",
+    "points": [
+      "going to the park",
+      "visiting a science center",
+      "going to the beach",
+      "Choose ONE place and explain why it is the best option. You should also explain why the other two places are less suitable.",
+      "You have 1 minute to prepare and 2 minutes to speak."
+    ]
+  },
+  {
+    "id": "vstep-057",
+    "catalogIndex": 57,
+    "sourcePage": 5,
+    "part": 1,
+    "title": "06/12/25 TNU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/06-12-25-tnu-speaking-part-1",
+    "questions": [
+      "What kinds of drinks do you usually enjoy?",
+      "Do you prefer hot drinks or cold drinks? Why?",
+      "Do you think people should drink more water? Why?",
+      "Do you like going to crowded places? Why or why not?",
+      "What crowded places do people often visit in your city?",
+      "Do you think crowded places can be stressful? Why?"
+    ]
+  },
+  {
+    "id": "vstep-058",
+    "catalogIndex": 58,
+    "sourcePage": 5,
+    "part": 3,
+    "title": "27/01/26 HUST SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/27-01-26-hust-speaking-part-3",
+    "prompt": "Nowadays, many young people lose their jobs more easily than before.",
+    "points": [
+      "Some possible reasons include:",
+      "lack of work experience",
+      "fast changes in technology",
+      "high competition in the job market",
+      "Why do you think young people are more likely to lose their jobs nowadays? Discuss the ideas above and add at least one more reason of your own."
+    ],
+    "followUps": [
+      "How can young people improve their job security?",
+      "What role should employers play in supporting young workers?",
+      "Do you think schools prepare students well for the job market? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-059",
+    "catalogIndex": 59,
+    "sourcePage": 5,
+    "part": 2,
+    "title": "27/01/26 HUST SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/27-01-26-hust-speaking-part-2",
+    "prompt": "You are organizing an extracurricular activity for a group of children.",
+    "points": [
+      "You are considering three options:",
+      "organizing outdoor games",
+      "holding a cooking activity",
+      "organizing a fashion show",
+      "Choose ONE activity and explain why it is the best choice.",
+      "You should also explain why the other two options are less suitable.",
+      "You have 1 minute to prepare and 2 minutes to speak."
+    ]
+  },
+  {
+    "id": "vstep-060",
+    "catalogIndex": 60,
+    "sourcePage": 5,
+    "part": 3,
+    "title": "25/01/26 DTHU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/25-01-26-dthu-speaking-part-3",
+    "prompt": "Playing team sports has several advantages, such as:",
+    "points": [
+      "improving teamwork skills",
+      "promoting physical health",
+      "building discipline and responsibility",
+      "What do you think are the main advantages of team sports? Discuss the ideas above and add at least one more benefit of your own."
+    ],
+    "followUps": [
+      "Do you think team sports are more beneficial than individual sports? Why or why not?",
+      "How can team sports help young people develop social skills?",
+      "Should schools encourage students to take part in team sports? Why?"
+    ]
+  },
+  {
+    "id": "vstep-061",
+    "catalogIndex": 61,
+    "sourcePage": 6,
+    "part": 2,
+    "title": "25/01/26 DTHU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/25-01-26-dthu-speaking-part-2",
+    "prompt": "You are planning a family trip and are considering three different options:",
+    "points": [
+      "Planning the trip by yourself",
+      "Asking a travel agent for help",
+      "Getting travel advice from friends",
+      "Choose ONE option and explain why it is the best choice.",
+      "You should also explain why the other two options are less suitable.",
+      "You have 1 minute to prepare and 2 minutes to speak."
+    ]
+  },
+  {
+    "id": "vstep-062",
+    "catalogIndex": 62,
+    "sourcePage": 6,
+    "part": 1,
+    "title": "25/01/26 DTHU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/25-01-26-dthu-speaking-part-1",
+    "questions": [
+      "Do you enjoy cooking? Why or why not?",
+      "How often do you cook at home?",
+      "What is your favorite dish to cook or eat?",
+      "Do you like attending social events?",
+      "What kinds of social events are popular in your country?",
+      "Do you prefer small gatherings or large parties? Why?"
+    ]
+  },
+  {
+    "id": "vstep-063",
+    "catalogIndex": 63,
+    "sourcePage": 6,
+    "part": 3,
+    "title": "25/01/26 SGU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/25-01-26-sgu-speaking-part-3",
+    "prompt": "Good leadership is important in many areas, such as business, education, and teamwork. Some people believe that strong leaders should:",
+    "points": [
+      "help develop organizations",
+      "improve communication among team members",
+      "make effective and beneficial decisions",
+      "Question:",
+      "What do you think is the most important leadership skill? Discuss the ideas above and add at least one more skill of your own."
+    ],
+    "followUps": [
+      "Why is communication an important skill for leaders?",
+      "Can leadership skills be learned, or are they natural?",
+      "How can strong leadership improve teamwork in organizations?"
+    ]
+  },
+  {
+    "id": "vstep-064",
+    "catalogIndex": 64,
+    "sourcePage": 6,
+    "part": 2,
+    "title": "25/01/26 SGU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/25-01-26-sgu-speaking-part-2",
+    "prompt": "Your friend is sick and staying in the hospital. You want to buy a gift to cheer them up.",
+    "points": [
+      "You are considering three options:",
+      "a flower pot",
+      "a set of colored pens and a drawing book",
+      "a healthy snack",
+      "Choose ONE gift and explain why it is the best choice.",
+      "You should also explain why the other two options are less suitable.",
+      "You have 1 minute to prepare and 2 minutes to speak."
+    ]
+  },
+  {
+    "id": "vstep-065",
+    "catalogIndex": 65,
+    "sourcePage": 6,
+    "part": 1,
+    "title": "25/01/26 SGU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/25-01-26-sgu-speaking-part-1",
+    "questions": [
+      "Do you often see farms where you live?",
+      "What do you like most when visiting a farm?",
+      "Do you think agriculture plays an important role in your country? Why?",
+      "Do you usually carry a bag when you go out?",
+      "What do you often keep in your bag?",
+      "Do you prefer using plastic bags or canvas bags? Why?"
+    ]
+  },
+  {
+    "id": "vstep-066",
+    "catalogIndex": 66,
+    "sourcePage": 6,
+    "part": 3,
+    "title": "28/01/26 HUST SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/28-01-26-hust-speaking-part-3",
+    "prompt": "Many companies organize training workshops for their employees. Some benefits include:",
+    "points": [
+      "improving professional skills",
+      "strengthening teamwork",
+      "encouraging communication between branches in different regions",
+      "Question:",
+      "Do you think training workshops are important for companies? Discuss the given ideas and add at least one more benefit of your own."
+    ],
+    "followUps": [
+      "Why do large companies invest heavily in employee training?",
+      "How can training programs improve cooperation between international branches?",
+      "Do you think companies should make training mandatory? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-067",
+    "catalogIndex": 67,
+    "sourcePage": 6,
+    "part": 2,
+    "title": "28/01/26 HUST SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/28-01-26-hust-speaking-part-2",
+    "prompt": "Your company is planning a picnic for employees. There are three possible locations:",
+    "points": [
+      "a public park",
+      "a beach",
+      "a resort",
+      "Choose ONE location and explain why it is the best choice.",
+      "You should also explain why the other two options are less suitable, considering cost, convenience, or preparation.",
+      "You have 1 minute to prepare and 2 minutes to speak."
+    ]
+  },
+  {
+    "id": "vstep-068",
+    "catalogIndex": 68,
+    "sourcePage": 6,
+    "part": 1,
+    "title": "28/01/26 HUST SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/28-01-26-hust-speaking-part-1",
+    "questions": [
+      "How often do you check your email?",
+      "Do you think email is important in the workplace? Why?",
+      "What kind of job would you like to have in the future?",
+      "What skills do you think are important for a successful career?",
+      "Have you ever used email for work or study purposes?"
+    ]
+  },
+  {
+    "id": "vstep-069",
+    "catalogIndex": 69,
+    "sourcePage": 6,
+    "part": 3,
+    "title": "24/01/26 VLU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/24-01-26-vlu-speaking-part-3",
+    "prompt": "Many people choose to spend their holidays at home instead of travelling. People believe that staying at home during holidays can bring several benefits, such as:",
+    "points": [
+      "saving money",
+      "having more time to rest and relax",
+      "spending quality time with family and friends",
+      "reducing stress from travelling"
+    ],
+    "followUps": [
+      "Do you think people should be encouraged to spend their holidays at home? Why or why not?",
+      "Which do you think is better: staying at home for holidays or travelling? Give reasons for your answer.",
+      "How can people make their holidays at home more enjoyable and meaningful?",
+      "Do you think more people will choose to stay at home for holidays in the future? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-070",
+    "catalogIndex": 70,
+    "sourcePage": 6,
+    "part": 2,
+    "title": "24/01/26 VLU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/24-01-26-vlu-speaking-part-2",
+    "prompt": "A person discovers that some money has disappeared from their bank account. There are three possible actions they could take: keeping the matter secret from others, reporting the incident to the police, or informing the bank staff about the problem.",
+    "points": [
+      "Which option do you think is the best choice? Give reasons for your answer."
+    ]
+  },
+  {
+    "id": "vstep-071",
+    "catalogIndex": 71,
+    "sourcePage": 6,
+    "part": 1,
+    "title": "24/01/26 VLU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/24-01-26-vlu-speaking-part-1",
+    "questions": [
+      "What activities did you take part in at school?",
+      "Which activity did you enjoy the most? Why?",
+      "Do you think extracurricular activities are important for students?",
+      "Have you ever done any volunteer work?",
+      "What kind of volunteer work would you like to do in the future?",
+      "Why do people do volunteer work?"
+    ]
+  },
+  {
+    "id": "vstep-072",
+    "catalogIndex": 72,
+    "sourcePage": 6,
+    "part": 3,
+    "title": "23/01/26 HUB SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/23-01-26-hub-speaking-part-3",
+    "prompt": "Many students choose to join clubs at school or in their community. People believe that taking part in clubs brings several benefits, such as:",
+    "points": [
+      "improving social skills",
+      "developing teamwork and leadership",
+      "gaining new knowledge and practical experience"
+    ],
+    "followUps": [
+      "Do you think students should be encouraged to join at least one club? Why or why not?",
+      "Which type of club do you think is more useful: academic clubs or sports clubs?",
+      "How can schools support students in participating in club activities?"
+    ]
+  },
+  {
+    "id": "vstep-073",
+    "catalogIndex": 73,
+    "sourcePage": 7,
+    "part": 1,
+    "title": "23/01/26 HUB SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/23-01-26-hub-speaking-part-1",
+    "questions": [
+      "Do you often return to your hometown? Why or why not?",
+      "What do you like most about your hometown?",
+      "If you could change one thing about your hometown, what would it be?",
+      "What kind of public transportation do you like most in your hometown?",
+      "Why do you prefer that type of transportation?"
+    ]
+  },
+  {
+    "id": "vstep-074",
+    "catalogIndex": 74,
+    "sourcePage": 7,
+    "part": 3,
+    "title": "09/01/26 HUB SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/09-01-26-hub-speaking-part-3",
+    "prompt": "In recent years, many people choose to spend their holidays at home instead of traveling far away. Home holidays can be more affordable, more relaxing, and less stressful. They also allow people to spend quality time with family, avoid crowded tourist places, and save time on travel.",
+    "points": [],
+    "followUps": [
+      "Do you prefer traveling alone or with other people? Why?",
+      "Where does your family usually go for holidays?",
+      "What do you usually prepare before going on a holiday?"
+    ]
+  },
+  {
+    "id": "vstep-075",
+    "catalogIndex": 75,
+    "sourcePage": 7,
+    "part": 3,
+    "title": "11/01/26 VLU SPEAKING PART 3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/11-01-26-vlu-speaking-part-3",
+    "prompt": "Leadership plays an important role in many areas of life, especially in organizations and teams. Good leaders can help organizations grow, improve communication among members, and make effective decisions.",
+    "points": [],
+    "followUps": [
+      "What do you think is the most important quality of a good leader? Why?",
+      "How can strong leadership improve communication within a team or organization?",
+      "Do you think leadership skills should be taught in schools? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-076",
+    "catalogIndex": 76,
+    "sourcePage": 7,
+    "part": 2,
+    "title": "11/01/26 VLU SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/11-01-26-vlu-speaking-part-2",
+    "prompt": "Your close friend is sick and staying in the hospital. You want to buy a gift to cheer him up. You are considering three options:",
+    "points": [
+      "A flower pot",
+      "Colored pencils and a drawing notebook",
+      "Healthy food",
+      "Discuss the advantages and disadvantages of each option. Then decide which gift is the best choice and explain your reason.",
+      "You have 1 minute to prepare and 2 minutes to speak."
+    ]
+  },
+  {
+    "id": "vstep-077",
+    "catalogIndex": 77,
+    "sourcePage": 7,
+    "part": 1,
+    "title": "11/01/26 VLU SPEAKING PART (Farm & Daily Items)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/11-01-26-vlu-speaking-part--farm---daily-items-",
+    "questions": [
+      "Do you often see farms in your daily life?",
+      "What do you like most when you visit a farm?",
+      "Do you think agriculture plays an important role in your country? Why or why not?",
+      "Do you often use bags?",
+      "What do you usually carry in your bag?",
+      "Do you prefer using plastic bags or canvas bags? Why?"
+    ]
+  },
+  {
+    "id": "vstep-078",
+    "catalogIndex": 78,
+    "sourcePage": 7,
+    "part": 2,
+    "title": "09/01/26 HUB SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/09-01-26-hub-speaking-part-2",
+    "prompt": "A stranger has accidentally transferred a sum of money to your bank account. You are considering three possible actions:",
+    "points": [
+      "keep the money",
+      "go to the bank",
+      "report the situation to the police station",
+      "Which option do you think is the best thing to do?",
+      "Give reasons for your choice and explain why you do not choose the other two options.",
+      "You will have 1 minute to prepare and 2 minutes to speak."
+    ]
+  },
+  {
+    "id": "vstep-079",
+    "catalogIndex": 79,
+    "sourcePage": 7,
+    "part": 1,
+    "title": "09/01/26 HUB SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/09-01-26-hub-speaking-part-1",
+    "questions": [
+      "What outdoor activities do you usually do in your free time?",
+      "How often do you take part in outdoor activities?",
+      "Do you prefer doing outdoor activities alone or with other people? Why?",
+      "What school activities do you enjoy the most?",
+      "How often does your school organize extracurricular activities?",
+      "Do you think school activities are important for students? Why or why not?"
+    ]
+  },
+  {
+    "id": "vstep-080",
+    "catalogIndex": 80,
+    "sourcePage": 7,
+    "part": 2,
+    "title": "17/01/26 HCMUE SPEAKING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/17-01-26-hcmue-speaking-part-2",
+    "prompt": "Your friend’s mother is going to celebrate her 60th birthday. She enjoys sightseeing and visiting beautiful places. You are considering three possible gifts:",
+    "points": [
+      "a book",
+      "a dress",
+      "a holiday",
+      "Which gift do you think is the most suitable for her? Give reasons for your choice and explain why you do not choose the other two options."
+    ]
+  },
+  {
+    "id": "vstep-081",
+    "catalogIndex": 81,
+    "sourcePage": 7,
+    "part": 2,
+    "title": "26/12/25 VLU SPEKAING PART 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/26-12-25-vlu-spekaing-part-2",
+    "prompt": "You are planning to buy a retirement gift for your former teacher.",
+    "points": [
+      "You are considering three options: a handbag, a pair of shoes, and a pair of glasses.",
+      "Talk about the advantages and disadvantages of each option, and decide which one you think is the most suitable gift for a retired teacher."
+    ]
+  },
+  {
+    "id": "vstep-082",
+    "catalogIndex": 82,
+    "sourcePage": 7,
+    "part": 1,
+    "title": "26/12/25 VLU SPEAKING PART 1",
+    "url": "https://vstepup.vn/luyen-tap-vstep/26-12-25-vlu-speaking-part-1",
+    "questions": [
+      "What is your favorite colour in your house?",
+      "How long does it take you to find a colour for clothes?",
+      "Do colours affect your feelings ?",
+      "Do you usually go to library ?",
+      "How long do you usually spend at the library?",
+      "What do you often do when you in the library?"
+    ]
+  },
+  {
+    "id": "vstep-083",
+    "catalogIndex": 83,
+    "sourcePage": 7,
+    "part": 3,
+    "title": "foreign language",
+    "url": "https://vstepup.vn/luyen-tap-vstep/foreign-language",
+    "prompt": "It is very important to learn a foreign language nowadays",
+    "points": [
+      "Communicate with other people",
+      "Understand with different culture",
+      "Make new friends around the world",
+      "Develop cognitive ability",
+      "Follow -up questions",
+      "1.Do you like learning English?",
+      "2.What is the best way to learn a second language?",
+      "3.When is the best age to learn a new language?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-084",
+    "catalogIndex": 84,
+    "sourcePage": 7,
+    "part": 3,
+    "title": "Stress is a poison",
+    "url": "https://vstepup.vn/luyen-tap-vstep/stress-is-a-poison",
+    "prompt": "Stress is a poison.",
+    "points": [
+      "Financial pressure",
+      "Work pressure",
+      "Relationship pressure",
+      "School pressure",
+      "Questions:",
+      "1. How would we deal with stress?",
+      "2. Do you think noise makes people stressed?",
+      "3. Why do people suffer more stress than the previous generation?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-085",
+    "catalogIndex": 85,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Protecting environment is the moral duty of every human being on this planet",
+    "url": "https://vstepup.vn/luyen-tap-vstep/protecting-environment-is-the-moral-duty-of-every-human-being-on-this-planet",
+    "prompt": "Protecting environment is the moral duty of every human being on this planet",
+    "points": [
+      "Using public transportation",
+      "Reducing, recycling, reusing rubbish",
+      "Giving environmental talks",
+      "Plant more trees",
+      "1.     Do you recycle your rubbish?",
+      "2.     What are some things that can be recycled?",
+      "3.     What other activities can we do to protect our environment?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-086",
+    "catalogIndex": 86,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Healthy diet has a lot of benefits",
+    "url": "https://vstepup.vn/luyen-tap-vstep/healthy-diet-has-a-lot-of-benefits",
+    "prompt": "Healthy diet has a lot of benefits",
+    "points": [
+      "Keep fit ( also contribute to an adequate body weight)",
+      "Reduce illness risks (a healthy diet can protect the body against certain types of diseases such as diabetes, cancer)",
+      "Increase longevity ( provide enough nutrients to build up  a strong body)",
+      "Reduce blood pressure and keep the heart healthy."
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-087",
+    "catalogIndex": 87,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Working in groups helps students learn better at school.",
+    "url": "https://vstepup.vn/luyen-tap-vstep/working-in-groups-helps-students-learn-better-at-school-",
+    "prompt": "Working in groups helps students learn better at school.",
+    "points": [
+      "Learn from others",
+      "Improve communication skills",
+      "Become active",
+      "Learn how to work on a team.",
+      "Follow- up questions",
+      "1. When should group work be used at school and why?",
+      "2. What are the disadvantages of working in groups?",
+      "3. What can teachers do to improve the quality of group?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-088",
+    "catalogIndex": 88,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "School students are faced with some pressure.",
+    "url": "https://vstepup.vn/luyen-tap-vstep/school-students-are-faced-with-some-pressure-",
+    "prompt": "School students are faced with some pressure.",
+    "points": [
+      "Parents expectation (they make parents proud of them, pleased  parents with good studying results )",
+      "Friend competition (to fall behind)",
+      "Teachers’ requirement.",
+      "Prove themself to be successful.",
+      "Follow- up questions",
+      "1.Were you under much pressure at school?",
+      "2.What should students do to cope with the pressure?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-089",
+    "catalogIndex": 89,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Reading fiction is more enjoyable than watching movies",
+    "url": "https://vstepup.vn/luyen-tap-vstep/reading-fiction-is-more-enjoyable-than-watching-movies",
+    "prompt": "Reading fiction is more enjoyable than watching movies",
+    "points": [
+      "Save time",
+      "Provide more details",
+      "Improve imagination"
+    ],
+    "followUps": [
+      "1. What can be the disadvantages of reading fiction?",
+      "2. What types of fiction is popular among teenagers in your country? Why?",
+      "3. Should fiction writing be a compulsory subject in your country?"
+    ]
+  },
+  {
+    "id": "vstep-090",
+    "catalogIndex": 90,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Personal privacy is being threatened by the Internet",
+    "url": "https://vstepup.vn/luyen-tap-vstep/personal-privacy-is-being-threatened-by-the-internet",
+    "prompt": "Personal privacy is being threatened by the Internet",
+    "points": [
+      "Spam",
+      "Personal information hacking",
+      "Computer viruses (malware)",
+      "cybercrime and physical data theft"
+    ],
+    "followUps": [
+      "1.    Do you agree that our home is no longer a safe place to live?",
+      "2.     What should the government do to help people protect their privacy from online threats?",
+      "3.     What should you do to help people protect their privacy for online threats?"
+    ]
+  },
+  {
+    "id": "vstep-091",
+    "catalogIndex": 91,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Students are encouraged to go to museums to learn about the past.",
+    "url": "https://vstepup.vn/luyen-tap-vstep/students-are-encouraged-to-go-to-museums-to-learn-about-the-past-",
+    "prompt": "Students are encouraged to go to museums to learn about the past.",
+    "points": [
+      "relax",
+      "share knowledge with others",
+      "enrich sources of art",
+      "encourage creativity"
+    ],
+    "followUps": [
+      "1.What can be done to encourage people to go to the museum?",
+      "2.Do you think going to museums will be more popular in the future?",
+      "3.Are there any other ways to encourage people to learn about the past?"
+    ]
+  },
+  {
+    "id": "vstep-092",
+    "catalogIndex": 92,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Breakfast is the most important meal of a day",
+    "url": "https://vstepup.vn/luyen-tap-vstep/breakfast-is-the-most-important-meal-of-a-day",
+    "prompt": "Breakfast is the most important meal of a day",
+    "points": [
+      "weight control ? control my weight",
+      "energy to start a day/ provide energy to start a day",
+      "disease prevention/ prevent diseases (obesity, high blood pressure, heart disease)",
+      "improve memory and concentration.",
+      "Follow -up questions",
+      "1. What types of food are often served in breakfast?",
+      "2. What are the negative effects of skipping breakfast?",
+      "3. What makes a healthy diet?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-093",
+    "catalogIndex": 93,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Self-study skills are beneficial for students",
+    "url": "https://vstepup.vn/luyen-tap-vstep/self-study-skills-are-beneficial-for-students",
+    "prompt": "Self-study skills are beneficial for students",
+    "points": [
+      "More independence",
+      "Better time management",
+      "Better academic performance",
+      "gain more knowledge"
+    ],
+    "followUps": [
+      "1. Are self-study skills taught at school in your country?",
+      "2. Should self-study be a compulsory subject at school?",
+      "3. How does the lack of self- study skill training affect student performance in university ?"
+    ]
+  },
+  {
+    "id": "vstep-094",
+    "catalogIndex": 94,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Studying abroad is beneficial for young people.",
+    "url": "https://vstepup.vn/luyen-tap-vstep/studying-abroad-is-beneficial-for-young-people-",
+    "prompt": "Studying abroad is beneficial for young people.",
+    "points": [
+      "Develop themselves",
+      "Experience different styles of education",
+      "See the world",
+      "know other languages.",
+      "Questions:",
+      "1.What are the disadvantages of study abroad?",
+      "2. Going to college far away from home gives you a chance to get out of your comfort zone. What do you think about this statement?",
+      "3. What do you think about the tendency of study abroad in the next 20 years?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-095",
+    "catalogIndex": 95,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Both husband and wife should have equal roles in family.",
+    "url": "https://vstepup.vn/luyen-tap-vstep/both-husband-and-wife-should-have-equal-roles-in-family-",
+    "prompt": "Both husband and wife should have equal roles in family.",
+    "points": [
+      "Share more routine household tasks",
+      "Share children ‘s responsibilities",
+      "Work as a team",
+      "Be a company when being difficult.",
+      "Follow up questions.",
+      "1. Have the roles of husband and wife changed in the past ten years?",
+      "2. What roles do grandparents play in a family?",
+      "3. What do you think about single parent family?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-096",
+    "catalogIndex": 96,
+    "sourcePage": 8,
+    "part": 3,
+    "title": "Young people should be encouraged to take up yoga.",
+    "url": "https://vstepup.vn/luyen-tap-vstep/young-people-should-be-encouraged-to-take-up-yoga-",
+    "prompt": "Young people should be encouraged to take up yoga.",
+    "points": [
+      "Grow confidence",
+      "Improve concentration",
+      "Promote health",
+      "Improve bad health",
+      "Questions:",
+      "How can young people be encouraged to do exercise regularly?",
+      "What are health risks from lack of exercises?",
+      "How have people’s attitude to health changed over the last 10 years?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-097",
+    "catalogIndex": 97,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "Google is the best Internet search engine",
+    "url": "https://vstepup.vn/luyen-tap-vstep/google-is-the-best-internet-search-engine",
+    "prompt": "Google is the best Internet search engine",
+    "points": [
+      "fast",
+      "friendly user",
+      "informative",
+      "convenient",
+      "Follow - up questions",
+      "1. Is information on the Internet reliable?",
+      "2. Do you agree that everything in the world can be found on the Internet?",
+      "3. What should we do to avoid Internet addiction?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-098",
+    "catalogIndex": 98,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "University is a memorable time of our life",
+    "url": "https://vstepup.vn/luyen-tap-vstep/university-is-a-memorable-time-of-our-life",
+    "prompt": "University is a memorable time of our life",
+    "points": [
+      "Social networking",
+      "Knowledge achievement",
+      "Independence",
+      "Learn many important skills."
+    ],
+    "followUps": [
+      "1. What do you think is the most memorable about your university time?",
+      "2. Are universities now the same as they were in the past?",
+      "3.In your opinion, what should universities in Vietnam add to their curriculum?"
+    ]
+  },
+  {
+    "id": "vstep-099",
+    "catalogIndex": 99,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "Working from home has many advantages",
+    "url": "https://vstepup.vn/luyen-tap-vstep/working-from-home-has-many-advantages",
+    "prompt": "Working from home has many advantages",
+    "points": [
+      "Reduce working stress",
+      "Increasing productivity",
+      "Save time",
+      "Save travel expenses",
+      "Follow up- questions:",
+      "1. What do you think are the drawbacks of working from home?",
+      "2. Has the number of people working from home increased in the last 10 years in Vietnam? What are the reasons for this?",
+      "3. What should be the most important factors of a favourable working environment in your opinion?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-100",
+    "catalogIndex": 100,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "Mobile phones are useful at schools.",
+    "url": "https://vstepup.vn/luyen-tap-vstep/mobile-phones-are-useful-at-schools-",
+    "prompt": "Mobile phones are useful at schools.",
+    "points": [
+      "Search engine",
+      "Computer functions",
+      "Means of communication",
+      "Means of entertaining",
+      "Follow - up questions",
+      "1. What negative effects do M.P have on a young kid?",
+      "2. Do you think people will continue using M.P in the future?",
+      "3. How do people and the old in your country differ from each other in using mobile phone?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-101",
+    "catalogIndex": 101,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "Travelling abroad should be encouraged among young people.",
+    "url": "https://vstepup.vn/luyen-tap-vstep/travelling-abroad-should-be-encouraged-among-young-people-",
+    "prompt": "Travelling abroad should be encouraged among young people.",
+    "points": [
+      "Facilitate adaptation",
+      "Develop cultural sensitivity",
+      "Boost confidence",
+      "Explore new things"
+    ],
+    "followUps": [
+      "1.What should a person do to prepare for a trip to another country?",
+      "2.What challenges can a person face when travelling abroad alone?",
+      "3.How have the travelling habits changes over the last ten years?"
+    ]
+  },
+  {
+    "id": "vstep-102",
+    "catalogIndex": 102,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "After school activities are beneficial for students P3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/after-school-activities-are-beneficial-for-students-p3",
+    "prompt": "After school activities are beneficial for students.",
+    "points": [
+      "Communication skills",
+      "Sense of commitment",
+      "Time management",
+      "Develop personal interests"
+    ],
+    "followUps": [
+      "1.What are some common extra activities for students?",
+      "2.Do you think extra- curriculum should be made compulsory for students? Why?",
+      "3.What should be done to encourage students to participate in extra-curriculum activities?"
+    ]
+  },
+  {
+    "id": "vstep-103",
+    "catalogIndex": 103,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "Helping people is a key of happiness P3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/helping-people-is-a-key-of-happiness-p3",
+    "prompt": "Helping people is a key of happiness",
+    "points": [
+      "Stronger relationship",
+      "Sense of belongings",
+      "Inner peace",
+      "meaningful life"
+    ],
+    "followUps": [
+      "What make people happy?",
+      "Childhood is the happiest time of one’s life. Do you agree with this view?",
+      "In your opinion, which is more important in achieve happiness spiritually or materially?"
+    ]
+  },
+  {
+    "id": "vstep-104",
+    "catalogIndex": 104,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "Skill courses are necessary for young people P3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/skill-courses-are-necessary-for-young-people-p3",
+    "prompt": "Skill courses are necessary for young people",
+    "points": [
+      "Interaction",
+      "Social networking",
+      "Problem -solving - skill",
+      "Job requirement."
+    ],
+    "followUps": [
+      "What soft skills would you like to learn?",
+      "In your opinion, when should students take soft skills courses?",
+      "What do you think about some people learn soft skills as a trend, not their needs?"
+    ]
+  },
+  {
+    "id": "vstep-105",
+    "catalogIndex": 105,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "Traditional music should be preserved P3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/traditional-music-should-be-preserved-p3",
+    "prompt": "Traditional music should be preserved",
+    "points": [
+      "- Cultural values",
+      "- Historical values",
+      "- Educational values",
+      "_ Entertaining form"
+    ],
+    "followUps": [
+      "What should be done to keep traditional music?",
+      "What is the current status of traditional music?",
+      "How does the attitude towards music differ from generation to generation in your country?"
+    ]
+  },
+  {
+    "id": "vstep-106",
+    "catalogIndex": 106,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "Online learning has become popular nowadays P3",
+    "url": "https://vstepup.vn/luyen-tap-vstep/online-learning-has-become-popular-nowadays-p3",
+    "prompt": "Online learning has become popular nowadays.",
+    "points": [
+      "- flexible",
+      "- low cost of learning",
+      "- unnecessary travelling",
+      "_safer in different corona virus pandemic."
+    ],
+    "followUps": [
+      "Who can take advantages of online learning the most?",
+      "How has technology changed the way people learn?",
+      "Do you think that online learning will be popular in the future?"
+    ]
+  },
+  {
+    "id": "vstep-107",
+    "catalogIndex": 107,
+    "sourcePage": 9,
+    "part": 3,
+    "title": "Technology supports student learning (P3)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/technology-supports-student-learning--p3-",
+    "prompt": "Technology supports student learning:",
+    "points": [
+      "Thesis 1: improve knowledge",
+      "Thesis 2: provide learning sources",
+      "Thesis 3: reduce the cost of study",
+      "Thesis 4:do online courses",
+      "What technology invention do you think is the most important? Why?",
+      "How can technology help you study English?",
+      "What are the negative effects technology depend in our life?"
+    ],
+    "followUps": []
+  },
+  {
+    "id": "vstep-108",
+    "catalogIndex": 108,
+    "sourcePage": 9,
+    "part": 2,
+    "title": "Celebrations part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/celebrations-part-2",
+    "prompt": "Your brother is asking for your advice about organizing an activity to celebrate Women’day in his class. There are 3 options: a class picnic, a Miss contest in class, or a party at a karaoke bar. What is the best option?",
+    "points": []
+  },
+  {
+    "id": "vstep-109",
+    "catalogIndex": 109,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "Celebrations part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/celebrations-part-2",
+    "prompt": "Your brother is asking for your advice about organizing an activity to celebrate Women’day in his class. There are 3 options: a class picnic, a Miss contest in class, or a party at a karaoke bar. What is the best option?",
+    "points": []
+  },
+  {
+    "id": "vstep-110",
+    "catalogIndex": 110,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "Gift giving part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/gift-giving-part-2",
+    "prompt": "Your best friends’ birthday is coming. There are three options: a pair of gloves, a pair of concert ticket, a novel. What is the best gift?",
+    "points": []
+  },
+  {
+    "id": "vstep-111",
+    "catalogIndex": 111,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "School activities part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/school-activities-part-2",
+    "prompt": "Your class is going to celebrate the end of the school year. There are three places to choose: a park, a flower garden and a zoo. What is the best choice?",
+    "points": []
+  },
+  {
+    "id": "vstep-112",
+    "catalogIndex": 112,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "Gift giving part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/gift-giving-part-2",
+    "prompt": "Your best friends’ birthday is coming. There are three options: a pair of gloves, a pair of concert ticket, a novel. What is the best gift?",
+    "points": []
+  },
+  {
+    "id": "vstep-113",
+    "catalogIndex": 113,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "Urban planning part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/urban-planning-part-2",
+    "prompt": "The city council is planning to spend 1 million USD improving the local environment. There are three options: planting more tree, building a factory to recycle waste and relocating hospitals to the suburbs. What is the best choice?",
+    "points": []
+  },
+  {
+    "id": "vstep-114",
+    "catalogIndex": 114,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "Transportation part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/transportation-part-2",
+    "prompt": "You work 10 km away from home. You are considering the means of transportation to go to work every day. There are 3 options:",
+    "points": [
+      "Taxi",
+      "Motorbike",
+      "Bus"
+    ]
+  },
+  {
+    "id": "vstep-115",
+    "catalogIndex": 115,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "School development part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/school-development-part-2",
+    "prompt": "Your school is investing money in improving the quality of education. These areas are suggested:",
+    "points": [
+      "investing in teachers",
+      "investing in the students",
+      "investing in the facilities."
+    ]
+  },
+  {
+    "id": "vstep-116",
+    "catalogIndex": 116,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "Celebrations part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/celebrations-part-2",
+    "prompt": "Your brother is asking for your advice about organizing an activity to celebrate Women’day in his class. There are 3 options: a class picnic, a Miss contest in class, or a party at a karaoke bar. What is the best option?",
+    "points": []
+  },
+  {
+    "id": "vstep-117",
+    "catalogIndex": 117,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "Gift giving part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/gift-giving-part-2",
+    "prompt": "Your best friends’ birthday is coming. There are three options: a pair of gloves, a pair of concert ticket, a novel. What is the best gift?",
+    "points": []
+  },
+  {
+    "id": "vstep-118",
+    "catalogIndex": 118,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "Celebrations part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/celebrations-part-2",
+    "prompt": "Your brother is asking for your advice about organizing an activity to celebrate Women’day in his class. There are 3 options: a class picnic, a Miss contest in class, or a party at a karaoke bar. What is the best option?",
+    "points": []
+  },
+  {
+    "id": "vstep-119",
+    "catalogIndex": 119,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "Event organization part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/event-organization-part-2",
+    "prompt": "Your group is going to organize a sport competition. Which do you think you would organize a sport competition. Which do you think you would organize .",
+    "points": [
+      "a table tennis game",
+      "a marathon",
+      "or a football match?"
+    ]
+  },
+  {
+    "id": "vstep-120",
+    "catalogIndex": 120,
+    "sourcePage": 10,
+    "part": 2,
+    "title": "Family decisions part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/family-decisions-part-2",
+    "prompt": "Your family has won a lottery of 10 million. There are three options to use that amount of money :",
+    "points": [
+      "buy a new TV",
+      "deposit money in a bank",
+      "spending a short holiday."
+    ]
+  },
+  {
+    "id": "vstep-121",
+    "catalogIndex": 121,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "School activities part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/school-activities-part-2",
+    "prompt": "Your class is going to celebrate the end of the school year. There are three places to choose: a park, a flower garden and a zoo. What is the best choice?",
+    "points": []
+  },
+  {
+    "id": "vstep-122",
+    "catalogIndex": 122,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Gift giving part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/gift-giving-part-2",
+    "prompt": "Your best friends’ birthday is coming. There are three options: a pair of gloves, a pair of concert ticket, a novel. What is the best gift?",
+    "points": []
+  },
+  {
+    "id": "vstep-123",
+    "catalogIndex": 123,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Student assessment part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/student-assessment-part-2",
+    "prompt": "Teachers at your child’s primary school are asking you about how to assess students. There are three options are suggested:",
+    "points": [
+      "marks only",
+      "comments only",
+      "both marks and comments"
+    ]
+  },
+  {
+    "id": "vstep-124",
+    "catalogIndex": 124,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Helping others part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/helping-others-part-2",
+    "prompt": "You are going to help mountainous children. There are three options for you to choose",
+    "points": [
+      "Money",
+      "Old clothes",
+      "Notebooks and pencils"
+    ]
+  },
+  {
+    "id": "vstep-125",
+    "catalogIndex": 125,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Gift giving part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/gift-giving-part-2",
+    "prompt": "Your best friends’ birthday is coming. There are three options: a pair of gloves, a pair of concert ticket, a novel. What is the best gift?",
+    "points": []
+  },
+  {
+    "id": "vstep-126",
+    "catalogIndex": 126,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Time management part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/time-management-part-2",
+    "prompt": "You have two weeks before final exams. Would you stay home to revise for the test; go on holiday with family; and join friends for parties? What is your best choice?",
+    "points": [
+      "Stay at home to revise  for the test",
+      "Go on holiday with family",
+      "Join friends for a party."
+    ]
+  },
+  {
+    "id": "vstep-127",
+    "catalogIndex": 127,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Student support part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/student-support-part-2",
+    "prompt": "There are some weak students in your class. You are thinking of finding way to help them:",
+    "points": [
+      "a teacher",
+      "an academic tutor",
+      "an excellent classmate"
+    ]
+  },
+  {
+    "id": "vstep-128",
+    "catalogIndex": 128,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Classroom environment part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/classroom-environment-part-2",
+    "prompt": "Your sister’s class allow her to choose her seat and she is not short -sighted. There are three options for her to choose",
+    "points": [
+      "A front seat",
+      "A middle seat",
+      "A back seat."
+    ]
+  },
+  {
+    "id": "vstep-129",
+    "catalogIndex": 129,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Travel Part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/travel-part-2",
+    "prompt": "You are going to have an oral presentation about Hanoi capital. You are thinking about a nice place to introduce. There are THREE options for you to choose:",
+    "points": [
+      "Hoan Kiem Lake  ( Sword lake)",
+      "Temple of Literature",
+      "Ho Chi Minh Mausoleum"
+    ]
+  },
+  {
+    "id": "vstep-130",
+    "catalogIndex": 130,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Personal development part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/personal-development-part-2",
+    "prompt": "Your university offers free courses for graduate students. Which would like to you choose? There are THREE options for you to choose:",
+    "points": [
+      "A swimming course",
+      "A time-management course",
+      "A public speaking course"
+    ]
+  },
+  {
+    "id": "vstep-131",
+    "catalogIndex": 131,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Gift giving part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/gift-giving-part-2",
+    "prompt": "Your best friends’ birthday is coming. There are three options: a pair of gloves, a pair of concert ticket, a novel. What is the best gift?",
+    "points": []
+  },
+  {
+    "id": "vstep-132",
+    "catalogIndex": 132,
+    "sourcePage": 11,
+    "part": 2,
+    "title": "Celebrations part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/celebrations-part-2",
+    "prompt": "Your brother is asking for your advice about organizing an activity to celebrate Women’day in his class. There are 3 options: a class picnic, a Miss contest in class, or a party at a karaoke bar. What is the best option?",
+    "points": []
+  },
+  {
+    "id": "vstep-133",
+    "catalogIndex": 133,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Fitness part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/fitness-part-2",
+    "prompt": "You are getting fat and you decide to lose weight. Which weigh loss method would you like to choose? There are THREE options for you to choose:",
+    "points": [
+      "Going to the gym",
+      "Taking weigh loss drugs",
+      "Going on a diet."
+    ]
+  },
+  {
+    "id": "vstep-134",
+    "catalogIndex": 134,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Family activities part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/family-activities-part-2",
+    "prompt": "It is getting hotter and your family is planning a trip. Three places are suggested:",
+    "points": [
+      "A sea side resort",
+      "A lakeside hotel",
+      "A countryside cottage"
+    ]
+  },
+  {
+    "id": "vstep-135",
+    "catalogIndex": 135,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Accommodation part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/accommodation-part-2",
+    "prompt": "You are going to move out and you have to choose your new accommodation.",
+    "points": [
+      "There are THREE options for you to choose:",
+      "Dormitory",
+      "Apartment",
+      "Stay with friends"
+    ]
+  },
+  {
+    "id": "vstep-136",
+    "catalogIndex": 136,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Relationships part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/relationships-part-2",
+    "prompt": "Your brother is in a romantic relationship. What would you do?",
+    "points": [
+      "There are THREE options for you to choose:",
+      "Tell your parents",
+      "Accept this relationship but under your control",
+      "Let him do anything he want."
+    ]
+  },
+  {
+    "id": "vstep-137",
+    "catalogIndex": 137,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Study habits part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/study-habits-part-2",
+    "prompt": "You are looking for the best place to study for the upcoming exam. There are some places you are thinking about.",
+    "points": [
+      "There are THREE options for you to choose:",
+      "At library",
+      "At home",
+      "At coffee shop ( crowded,  noisy)"
+    ]
+  },
+  {
+    "id": "vstep-138",
+    "catalogIndex": 138,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Education part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/education-part-2",
+    "prompt": "If you found a student cheating on exam. What would you do? There are three options to choose.",
+    "points": [
+      "subtract 50%",
+      "Delete test paper",
+      "prohibit him/ her taking exam."
+    ]
+  },
+  {
+    "id": "vstep-139",
+    "catalogIndex": 139,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Marketing Part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/marketing-part-2",
+    "prompt": "You are a manager of an English center. You are going to advertise your English center through printed paper.",
+    "points": [
+      "There are THREE options for you to choose:",
+      "Brochures",
+      "Leaflets",
+      "Newspaper"
+    ]
+  },
+  {
+    "id": "vstep-140",
+    "catalogIndex": 140,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Career and education choices part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/career-and-education-choices-part-2",
+    "prompt": "Your brother has just graduated from university. Here are the up - coming plan for him. Which one you would like to choose for your brother?",
+    "points": [
+      "There are THREE options for you to choose:",
+      "Go straight to work",
+      "Study Master degree",
+      "Travelling"
+    ]
+  },
+  {
+    "id": "vstep-141",
+    "catalogIndex": 141,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Gift giving part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/gift-giving-part-2",
+    "prompt": "Your best friends’ birthday is coming. There are three options: a pair of gloves, a pair of concert ticket, a novel. What is the best gift?",
+    "points": []
+  },
+  {
+    "id": "vstep-142",
+    "catalogIndex": 142,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Social activities part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/social-activities-part-2",
+    "prompt": "You are going to organize a High School Reunion and you have to create an event to make your reunion be successful. There are THREE options for you to choose:",
+    "points": [
+      "Raising money.",
+      "Choosing a location, date and time.",
+      "Designing a theme and color."
+    ]
+  },
+  {
+    "id": "vstep-143",
+    "catalogIndex": 143,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Choosing how to spend birthday money part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/choosing-how-to-spend-birthday-money-part-2",
+    "prompt": "Your mother has just given you 5 million VND as your birthday gift. You are going to buy something for your birthday. There are THREE options for you to choose:",
+    "points": [
+      "A new laptop",
+      "New clothes and shoes",
+      "Books and school bag"
+    ]
+  },
+  {
+    "id": "vstep-144",
+    "catalogIndex": 144,
+    "sourcePage": 12,
+    "part": 2,
+    "title": "Family and celebration part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/family-and-celebration-part-2",
+    "prompt": "Your sisters’ wedding is coming next month. You and your parents are thinking of giving them a great present. There are THREE options for you to choose:",
+    "points": [
+      "A three- day- tour",
+      "A new car",
+      "A new house"
+    ]
+  },
+  {
+    "id": "vstep-145",
+    "catalogIndex": 145,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "Helping weak students in class part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/helping-weak-students-in-class-part-2",
+    "prompt": "You have some weak students in class. You want to help them. There are 3 options:",
+    "points": [
+      "a teacher",
+      "a tutor",
+      "an excellent class mate."
+    ]
+  },
+  {
+    "id": "vstep-146",
+    "catalogIndex": 146,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "Recommending a city to visit in Vietnam part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/recommending-a-city-to-visit-in-vietnam-part-2",
+    "prompt": "A foreign friend is going to visit a city in Vietnam in August for 3 days. Where should you recommend for her to visit? There are three options:",
+    "points": [
+      "Hà Nội",
+      "Hồ Chí Minh",
+      "Huế"
+    ]
+  },
+  {
+    "id": "vstep-147",
+    "catalogIndex": 147,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "Choosing a place to buy clothes part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/choosing-a-place-to-buy-clothes-part-2",
+    "prompt": "You are going to buy some clothes. Where should you buy?",
+    "points": [
+      "A shop",
+      "An open -air market",
+      "An online shop"
+    ]
+  },
+  {
+    "id": "vstep-148",
+    "catalogIndex": 148,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "Choosing a retirement gift for your father part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/choosing-a-retirement-gift-for-your-father-part-2",
+    "prompt": "Your father is going to retire next week. What should you buy for him?",
+    "points": [
+      "A bottle of champagne",
+      "A puppy",
+      "A tie"
+    ]
+  },
+  {
+    "id": "vstep-149",
+    "catalogIndex": 149,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "How to spend or invest lottery winnings part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/how-to-spend-or-invest-lottery-winnings-part-2",
+    "prompt": "If you won the lottery 1 million dollars, what would you like to do with this amount of money? There are THREE options for you to choose:",
+    "points": [
+      "Buying a new house",
+      "Opening a restaurant",
+      "Depositing the money in the bank"
+    ]
+  },
+  {
+    "id": "vstep-150",
+    "catalogIndex": 150,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "Choosing a suitable birthday gift for a travel lover part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/choosing-a-suitable-birthday-gift-for-a-travel-lover-part-2",
+    "prompt": "Your brother is a university student who likes travelling. You are going to give him a birthday gift. There are three options:",
+    "points": [
+      "A selfie stick",
+      "A camera",
+      "A 3 - day- holiday tour"
+    ]
+  },
+  {
+    "id": "vstep-151",
+    "catalogIndex": 151,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "Solutions to deal with smoking in public places part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/solutions-to-deal-with-smoking-in-public-places-part-2",
+    "prompt": "The government is asking for citizens’ opinion on how to deal with smoking in public areas.",
+    "points": [
+      "Fining smokers at least 500.000VND",
+      "Asking smokers to do community service",
+      "Sending smokers to prison"
+    ]
+  },
+  {
+    "id": "vstep-152",
+    "catalogIndex": 152,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "Choosing the best source to update economic news part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/choosing-the-best-source-to-update-economic-news-part-2",
+    "prompt": ". You are studying economics and need daily update on economic news. There are three options:",
+    "points": [
+      "Internet",
+      "Tv",
+      "Radio."
+    ]
+  },
+  {
+    "id": "vstep-153",
+    "catalogIndex": 153,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "How to deal with a family member who often tells lies part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/how-to-deal-with-a-family-member-who-often-tells-lies-part-2",
+    "prompt": "Younger sister told lies many times. What are you going to do? There are three options for you to choose:",
+    "points": [
+      "having a talk with her",
+      "informing your parents",
+      "letting her continue telling lies."
+    ]
+  },
+  {
+    "id": "vstep-154",
+    "catalogIndex": 154,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "Choosing an activity for a Sunday evening out part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/choosing-an-activity-for-a-sunday-evening-out-part-2",
+    "prompt": "You are planning to have a Sunday evening out. There are 3 options to choose:",
+    "points": [
+      "seeing a movie",
+      "going shopping",
+      "singing Karaoke"
+    ]
+  },
+  {
+    "id": "vstep-155",
+    "catalogIndex": 155,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "Ways to congratulate a friend on their birthday part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/ways-to-congratulate-a-friend-on-their-birthday-part-2",
+    "prompt": "You are thinking about the way to congratulate on your close friend’s birthday. There are three ways:",
+    "points": [
+      "posting on facebook",
+      "making a phone call",
+      "sending a card."
+    ]
+  },
+  {
+    "id": "vstep-156",
+    "catalogIndex": 156,
+    "sourcePage": 13,
+    "part": 2,
+    "title": "Choosing a means of transport for a trip part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/choosing-a-means-of-transport-for-a-trip-part-2",
+    "prompt": "A group of people is planning a trip from Da Nang to Hanoi. Three means of transport are suggested:",
+    "points": [
+      "by train",
+      "by plane",
+      "by coach"
+    ]
+  },
+  {
+    "id": "vstep-157",
+    "catalogIndex": 157,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Choosing suitable gifts for children in remote areas part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/choosing-suitable-gifts-for-children-in-remote-areas-part-2",
+    "prompt": "Your volunteer group is organizing a trip to help children in a remote class. There are three options for you to choose:",
+    "points": [
+      "books",
+      "clothes",
+      "movies"
+    ]
+  },
+  {
+    "id": "vstep-158",
+    "catalogIndex": 158,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Ways for children to spend summer holidays part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/ways-for-children-to-spend-summer-holidays-part-2",
+    "prompt": "Your family is discussing how your nephew spends his summer holiday.",
+    "points": [
+      "Joining a summer camp",
+      "Doing military training",
+      "Staying with his grandparents."
+    ]
+  },
+  {
+    "id": "vstep-159",
+    "catalogIndex": 159,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Choosing a speaker to share life experience part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/choosing-a-speaker-to-share-life-experience-part-2",
+    "prompt": "A youth club is inviting a speaker to talk about life experience. There are 3 persons suggested:",
+    "points": [
+      "a famous singer",
+      "a company president",
+      "an excellent student"
+    ]
+  },
+  {
+    "id": "vstep-160",
+    "catalogIndex": 160,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Fundraising methods for charity part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/fundraising-methods-for-charity-part-2",
+    "prompt": "A group of students are raising money for charity. There are 3 options:",
+    "points": [
+      "from companies",
+      "from schools and",
+      "from individuals"
+    ]
+  },
+  {
+    "id": "vstep-161",
+    "catalogIndex": 161,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Advertising methods / Marketing strategies Part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/advertising-methods---marketing-strategies-part-2",
+    "prompt": "The manager of an English center wants to advertise it. There are three suggested options",
+    "points": [
+      "TV",
+      "The internet",
+      "radio."
+    ]
+  },
+  {
+    "id": "vstep-162",
+    "catalogIndex": 162,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Education part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/education-part-2",
+    "prompt": "If you found a student cheating on exam. What would you do? There are three options to choose.",
+    "points": [
+      "subtract 50%",
+      "Delete test paper",
+      "prohibit him/ her taking exam."
+    ]
+  },
+  {
+    "id": "vstep-163",
+    "catalogIndex": 163,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Social Issues part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/social-issues-part-2",
+    "prompt": "Your sister is spoken ill on facebook. There are three options for you to choose.",
+    "points": [
+      "Deactivate her facebook account",
+      "talk to the teacher",
+      "having a talk with those friends"
+    ]
+  },
+  {
+    "id": "vstep-164",
+    "catalogIndex": 164,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Choosing schools part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/choosing-schools-part-2",
+    "prompt": "You are going to choose a Primary school for your children. There are three options for you to choose.",
+    "points": [
+      "A school with highly focus on personality development",
+      "A school with highly focus on academic development",
+      "A school with relaxing atmosphere"
+    ]
+  },
+  {
+    "id": "vstep-165",
+    "catalogIndex": 165,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Leisure and Lifestyle (part 2)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/leisure-and-lifestyle--part-2-",
+    "prompt": "What will you do in a three - month- summer holiday? There are three options for you to choose: Take a long course, doing some volunteer work and travelling",
+    "points": [
+      "Take a long course",
+      "doing some volunteer work",
+      "Travelling"
+    ]
+  },
+  {
+    "id": "vstep-166",
+    "catalogIndex": 166,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Community & Volunteering part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/community---volunteering-part-2",
+    "prompt": "Your volunteer group is organizing a trip to help children in remote areas. There are three options such as books, clothes and money. What is the best present?",
+    "points": [
+      "Books",
+      "Clothes",
+      "Money"
+    ]
+  },
+  {
+    "id": "vstep-167",
+    "catalogIndex": 167,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Weather and activities part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/weather-and-activities-part-2",
+    "prompt": "A foreign friend is planning to visit your country and wondering about the best time to go there. There are three options for him to choose",
+    "points": [
+      "Spring",
+      "Autumn",
+      "Summer"
+    ]
+  },
+  {
+    "id": "vstep-168",
+    "catalogIndex": 168,
+    "sourcePage": 14,
+    "part": 2,
+    "title": "Social awareness Part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/social-awareness-part-2",
+    "prompt": "You are going to organize an activity to raise money to help poor students. There are three options for you to choose:",
+    "points": [
+      "a school concert",
+      "a second-hand market",
+      "a marathon"
+    ]
+  },
+  {
+    "id": "vstep-169",
+    "catalogIndex": 169,
+    "sourcePage": 15,
+    "part": 2,
+    "title": "Presentation Skills part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/presentation-skills-part-2",
+    "prompt": "You are going to make a presentation on a new product. There are three options for you to choose from",
+    "points": [
+      "Making PowerPoint slides",
+      "Making a poster",
+      "Making a video"
+    ]
+  },
+  {
+    "id": "vstep-170",
+    "catalogIndex": 170,
+    "sourcePage": 15,
+    "part": 2,
+    "title": "Class reunion part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/class-reunion-part-2",
+    "prompt": "You are going to organize a ten-year high school class reunion. There are three options for you to choose: visit old school and teachers, organize a party and hold a one-day trip. What is your best choice?",
+    "points": [
+      "Visit old school & teachers",
+      "Organize a party",
+      "Hold a one-day trip"
+    ]
+  },
+  {
+    "id": "vstep-171",
+    "catalogIndex": 171,
+    "sourcePage": 15,
+    "part": 2,
+    "title": "Relationships – Friendship part 2",
+    "url": "https://vstepup.vn/luyen-tap-vstep/relationships-%E2%80%93-friendship-part-2",
+    "prompt": "You are going to a prom for graduate students. There are three options for you to choose. Who do you go with?",
+    "points": [
+      "Darling",
+      "Best friend",
+      "Alone"
+    ]
+  },
+  {
+    "id": "vstep-172",
+    "catalogIndex": 172,
+    "sourcePage": 15,
+    "part": 1,
+    "title": "Interview (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/interview--part-1-",
+    "questions": [
+      "Have you ever been interviewed? Can you describe it?",
+      "How did you prepare for it?",
+      "How important is it to prepare for the interview?"
+    ]
+  },
+  {
+    "id": "vstep-173",
+    "catalogIndex": 173,
+    "sourcePage": 15,
+    "part": 1,
+    "title": "PETS (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/pets--part-1-",
+    "questions": [
+      "Do people in your country like to keep pets? Why/Why not?",
+      "What is your favorite type of pets?",
+      "What are the benefits of having a pet?"
+    ]
+  },
+  {
+    "id": "vstep-174",
+    "catalogIndex": 174,
+    "sourcePage": 15,
+    "part": 1,
+    "title": "FAMILY(PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/family-part-1-",
+    "questions": [
+      "Are you a family person?",
+      "What do you think are the quality of a good wife?",
+      "Do you think your personality will change when you get older?"
+    ]
+  },
+  {
+    "id": "vstep-175",
+    "catalogIndex": 175,
+    "sourcePage": 15,
+    "part": 1,
+    "title": "FASHION (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/fashion--part-1-",
+    "questions": [
+      "Do you like casual clothes or formal clothes?",
+      "What is your favorite clothing item in winter?",
+      "How would you dress to work?"
+    ]
+  },
+  {
+    "id": "vstep-176",
+    "catalogIndex": 176,
+    "sourcePage": 15,
+    "part": 1,
+    "title": "FUTURE PLANS (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/future-plans--part-1-",
+    "questions": [
+      "How important is it to plan for future?",
+      "Do you have plans for your future? What are they?",
+      "Do you often achieve what you have planned? Why? Why not?"
+    ]
+  },
+  {
+    "id": "vstep-177",
+    "catalogIndex": 177,
+    "sourcePage": 15,
+    "part": 1,
+    "title": "HEALTHY EATING / DIET (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/healthy-eating---diet--part-1-",
+    "questions": [
+      "Do you have a balanced diet?",
+      "What kinds of food do you often eat?",
+      "What kinds of food do you should eat more?"
+    ]
+  },
+  {
+    "id": "vstep-178",
+    "catalogIndex": 178,
+    "sourcePage": 15,
+    "part": 1,
+    "title": "PARTIES (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/parties--part-1-",
+    "questions": [
+      "Do you usually go to a party?",
+      "What is the party you like the most? Why?",
+      "Do you prefer go to parties alone or with group/friends?"
+    ]
+  },
+  {
+    "id": "vstep-179",
+    "catalogIndex": 179,
+    "sourcePage": 15,
+    "part": 1,
+    "title": "NEWS (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/news--part-1-",
+    "questions": [
+      "Do you keep up to date with the news?",
+      "What’s your news sources?",
+      "How important is it to keep up to date with the news?"
+    ]
+  },
+  {
+    "id": "vstep-180",
+    "catalogIndex": 180,
+    "sourcePage": 15,
+    "part": 1,
+    "title": "Exams at school (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/exams-at-school--part-1-",
+    "questions": [
+      "How do you usually feel before exams?",
+      "Which is your style of preparing for exams? Prepare long time before exams or prepare just before the exams?",
+      "What do you think about doing homework/ assignment?"
+    ]
+  },
+  {
+    "id": "vstep-181",
+    "catalogIndex": 181,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Community services (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/community-services--part-1-",
+    "questions": [
+      "What kinds of community service have you done?",
+      "Who usually works for community activities?",
+      "What are the benefits of participating in community activities?"
+    ]
+  },
+  {
+    "id": "vstep-182",
+    "catalogIndex": 182,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Music (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/music--part-1-",
+    "questions": [
+      "Who is your favourite artist?",
+      "Can you name a song that describes yourself?",
+      "What kinds of music do you like best?"
+    ]
+  },
+  {
+    "id": "vstep-183",
+    "catalogIndex": 183,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Traditional music (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/traditional-music--part-1-",
+    "questions": [
+      "Do you often listen to traditional music?",
+      "What is your favourite song?",
+      "How important is traditional music in your country?"
+    ]
+  },
+  {
+    "id": "vstep-184",
+    "catalogIndex": 184,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Renting a house/ a flat (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/renting-a-house--a-flat--part-1-",
+    "questions": [
+      "Have you ever rented a house?",
+      "Would you prefer to pay the rent monthly or yearly?",
+      "What do you like in a rented house?"
+    ]
+  },
+  {
+    "id": "vstep-185",
+    "catalogIndex": 185,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Mobile phone service (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/mobile-phone-service--part-1-",
+    "questions": [
+      "How often do you use a mobile phone? Why?",
+      "Are you satisfied with your mobile phone service?",
+      "What makes a good mobile phone service?"
+    ]
+  },
+  {
+    "id": "vstep-186",
+    "catalogIndex": 186,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Fast food restaurant (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/fast-food-restaurant--part-1-",
+    "questions": [
+      "Have you ever been to a fast food restaurant?",
+      "What is your favourite fast food?",
+      "Is it healthy to eat fast food?"
+    ]
+  },
+  {
+    "id": "vstep-187",
+    "catalogIndex": 187,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Communication (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/communication--part-1-",
+    "questions": [
+      "What is your favorite way to communicate with other people?",
+      "Do you prefer sending text messages or talking on the phone?",
+      "What is the benefit of face-to face communication with others?"
+    ]
+  },
+  {
+    "id": "vstep-188",
+    "catalogIndex": 188,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Foreign language (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/foreign-language--part-1-",
+    "questions": [
+      "What foreign language do you speak?",
+      "Do you enjoy learning a foreign language?",
+      "How important is it to learn a foreign language?"
+    ]
+  },
+  {
+    "id": "vstep-189",
+    "catalogIndex": 189,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Time management (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/time-management--part-1-",
+    "questions": [
+      "Are you good at managing your time?",
+      "How do you manage your time?",
+      "How important is time management?"
+    ]
+  },
+  {
+    "id": "vstep-190",
+    "catalogIndex": 190,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Favourite beach (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/favourite-beach--part-1-",
+    "questions": [
+      "What is your favourite beach in Vietnam?",
+      "How often do you go there?",
+      "What do you often do when you are there?"
+    ]
+  },
+  {
+    "id": "vstep-191",
+    "catalogIndex": 191,
+    "sourcePage": 16,
+    "part": 1,
+    "title": "Doing exercise (PART 1)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/doing-exercise--part-1-",
+    "questions": [
+      "How often do you do exercise?",
+      "Would you prefer to do exercise alone/ individually or with someone else/ the others?",
+      "How important is it to do exercise?"
+    ]
+  },
+  {
+    "id": "vstep-192",
+    "catalogIndex": 192,
+    "sourcePage": 16,
+    "part": 2,
+    "title": "Investing in Education: Teachers, Students, or Facilities? (Part 2)",
+    "url": "https://vstepup.vn/luyen-tap-vstep/investing-in-education--teachers--students--or-facilities---part-2-",
+    "prompt": "A school is planning to invest money in improving the quality of education. Three areas are suggested: teachers, students, and facilities. Which area do you think the school should invest in? Why?",
+    "points": []
+  }
+]
