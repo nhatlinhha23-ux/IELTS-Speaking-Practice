@@ -1,101 +1,201 @@
 <!doctype html>
-<html lang="en">
+<html lang="vi">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>IELTS Speaking Random Topic Generator</title>
+    <meta
+      name="description"
+      content="Luyện nói VSTEP B2 với 192 bài tập đầy đủ cả 3 Part, đồng hồ luyện thi, bộ lọc và theo dõi tiến độ."
+    />
+    <meta name="theme-color" content="#133f35" />
+    <title>192 bài VSTEP B2 Speaking Practice</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="app-shell">
-      <header class="page-header">
-        <p class="eyebrow">Band 6.5 IELTS Speaking Practice</p>
-        <h1>IELTS Speaking Random Topic Generator</h1>
-        <p class="subtitle">Practice one topic every day to build fluency and workplace confidence.</p>
+    <div class="site-shell">
+      <header class="hero" id="top">
+        <nav class="topbar" aria-label="Điều hướng chính">
+          <a class="brand" href="#top" aria-label="VSTEP B2 Speaking Practice">
+            <span class="brand-mark">B2</span>
+            <span>
+              <strong>VSTEP Speaking</strong>
+              <small>3-Part Practice</small>
+            </span>
+          </a>
+          <span class="source-pill">Học liệu từ VSTEPUP</span>
+        </nav>
+
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow">Kho luyện nói B2 toàn diện</p>
+            <h1>192 bài tập.<br /><span>Mỗi ngày một chủ đề mới.</span></h1>
+            <p class="hero-description">
+              Luyện đủ Part 1, Part 2 và Part 3 với câu hỏi thực tế, khung triển khai ý,
+              đồng hồ mô phỏng và tiến độ được lưu ngay trên thiết bị.
+            </p>
+            <div class="hero-actions">
+              <a class="primary-link" href="#library">Khám phá kho đề</a>
+              <button class="text-button" id="random-button" type="button">Chọn bài ngẫu nhiên</button>
+            </div>
+          </div>
+
+          <div class="hero-stats" aria-label="Thống kê học liệu">
+            <article><strong id="stat-total">192</strong><span>Bài luyện nói</span></article>
+            <article><strong>3</strong><span>Phần thi</span></article>
+            <article><strong>16</strong><span>Trang học liệu</span></article>
+          </div>
+        </div>
       </header>
 
       <main>
-        <section class="top-panel" aria-label="Topic controls">
-          <div class="tabs" role="tablist" aria-label="Topic categories">
-            <button
-              class="tab-button"
-              id="tab-general"
-              type="button"
-              role="tab"
-              aria-selected="true"
-              aria-controls="practice-card"
-              data-category-key="general"
-            >
-              General Topics
-            </button>
-            <button
-              class="tab-button tab-healthcare"
-              id="tab-healthcare"
-              type="button"
-              role="tab"
-              aria-selected="false"
-              aria-controls="practice-card"
-              data-category-key="healthcare"
-            >
-              Healthcare / Hospital Operations
-            </button>
+        <section class="library-section" id="library" aria-labelledby="library-title">
+          <div class="section-heading">
+            <div>
+              <p class="section-kicker">Kho bài tập</p>
+              <h2 id="library-title">Chọn đúng dạng bạn muốn luyện</h2>
+            </div>
+            <p class="library-summary" id="library-summary" aria-live="polite">Đang tải 192 bài tập…</p>
           </div>
 
-          <aside class="mission-box" aria-live="polite">
-            <span>Today's Speaking Mission</span>
-            <p id="mission-text"></p>
-          </aside>
+          <div class="library-toolbar">
+            <div class="part-filters" id="part-filters" role="group" aria-label="Lọc theo phần thi">
+              <button class="filter-button active" data-part="all" type="button">Tất cả <span>192</span></button>
+              <button class="filter-button" data-part="1" type="button">Part 1 <span>50</span></button>
+              <button class="filter-button" data-part="2" type="button">Part 2 <span>92</span></button>
+              <button class="filter-button" data-part="3" type="button">Part 3 <span>50</span></button>
+            </div>
+            <label class="search-box" for="exercise-search">
+              <span aria-hidden="true">⌕</span>
+              <input
+                id="exercise-search"
+                type="search"
+                autocomplete="off"
+                placeholder="Tìm chủ đề hoặc câu hỏi…"
+              />
+            </label>
+          </div>
+
+          <div class="exercise-grid" id="exercise-grid" aria-live="polite">
+            <div class="loading-card">Đang chuẩn bị kho bài tập…</div>
+          </div>
+          <div class="empty-state" id="empty-state" hidden>
+            <strong>Không tìm thấy bài phù hợp.</strong>
+            <span>Thử một từ khóa khác hoặc chọn “Tất cả”.</span>
+          </div>
+          <nav class="pagination" id="library-pagination" aria-label="Phân trang kho bài tập"></nav>
         </section>
 
-        <section class="practice-card" id="practice-card" aria-live="polite">
-          <div class="card-header">
+        <section class="practice-section" id="practice" aria-labelledby="practice-heading">
+          <div class="practice-section-heading">
             <div>
-              <p class="category-badge" id="category-badge"></p>
-              <h2 id="main-topic"></h2>
+              <p class="section-kicker">Phòng luyện nói</p>
+              <h2 id="practice-heading">Luyện một bài thật sâu</h2>
             </div>
-
-            <div class="button-row">
-              <button class="primary-button" id="generate-button" type="button">Generate New Topic</button>
-              <button class="secondary-button" id="copy-button" type="button">Copy Topic</button>
+            <div class="practice-nav">
+              <button class="secondary-button" id="practice-random-button" type="button">Ngẫu nhiên</button>
+              <button class="secondary-button" id="next-button" type="button">Bài tiếp theo →</button>
             </div>
           </div>
 
-          <p class="practice-note">Try to speak for 2 minutes before checking vocabulary.</p>
+          <div class="practice-layout">
+            <article class="question-card" aria-live="polite">
+              <div class="card-topline">
+                <div>
+                  <div class="badge-row">
+                    <span class="part-badge" id="part-badge">SPEAKING · PART 1</span>
+                    <span class="time-badge" id="time-badge">3 phút</span>
+                    <span class="source-page-badge" id="source-page-badge">Trang 1/16</span>
+                  </div>
+                  <h2 id="exercise-title">Đang tải bài tập…</h2>
+                  <p id="exercise-subtitle" class="set-subtitle">Vui lòng chờ trong giây lát.</p>
+                </div>
+                <a id="source-link" class="source-link" target="_blank" rel="noreferrer">
+                  Xem bài gốc <span aria-hidden="true">↗</span>
+                </a>
+              </div>
 
-          <div class="content-grid">
-            <article class="content-section">
-              <h3>IELTS Speaking Part 1 Questions</h3>
-              <ol id="part1-list"></ol>
+              <div class="mission-box">
+                <span class="mission-icon" aria-hidden="true">◎</span>
+                <div>
+                  <strong id="task-label">Nhiệm vụ lượt này</strong>
+                  <p id="mission-text">Chuẩn bị ý rồi nói liên tục trong thời gian quy định.</p>
+                </div>
+              </div>
+
+              <div class="exercise-content" id="exercise-content"></div>
+
+              <div class="timer-panel" aria-label="Đồng hồ luyện nói">
+                <div class="timer-copy">
+                  <span class="timer-label">Chế độ thi thật</span>
+                  <strong id="timer-display">03:00</strong>
+                </div>
+                <div class="timer-actions">
+                  <button class="primary-button" id="timer-button" type="button">Bắt đầu 3 phút</button>
+                  <button class="timer-reset-button" id="timer-reset-button" type="button">Đặt lại</button>
+                </div>
+              </div>
+
+              <div class="card-actions">
+                <button class="secondary-button" id="copy-button" type="button">Sao chép nội dung</button>
+                <button class="complete-button" id="complete-button" type="button" aria-pressed="false">
+                  ✓ Đánh dấu đã luyện
+                </button>
+              </div>
             </article>
 
-            <article class="content-section cue-card">
-              <h3>IELTS Speaking Part 2 Cue Card</h3>
-              <p id="cue-task" class="cue-task"></p>
-              <p class="small-heading">You should say:</p>
-              <ul id="cue-bullets"></ul>
-            </article>
+            <aside class="coach-column">
+              <section class="coach-card answer-card">
+                <p class="section-kicker">Công thức B2</p>
+                <h3 id="framework-title">Trả lời theo 3 bước</h3>
+                <ol class="answer-steps" id="framework-steps"></ol>
+                <div class="frame-box">
+                  <span>Khung nói nhanh</span>
+                  <p id="sentence-frame"></p>
+                </div>
+              </section>
 
-            <article class="content-section">
-              <h3>IELTS Speaking Part 3 Discussion Questions</h3>
-              <ol id="part3-list"></ol>
-            </article>
+              <section class="coach-card starters-card">
+                <div class="coach-heading">
+                  <div>
+                    <p class="section-kicker">Câu nối hữu ích</p>
+                    <h3>Nói liền mạch hơn</h3>
+                  </div>
+                  <span class="count-chip" id="starter-count">4 câu</span>
+                </div>
+                <div class="starter-list" id="starter-list"></div>
+              </section>
 
-            <article class="content-section wide-section">
-              <h3>Suggested Band 6.5 Collocations</h3>
-              <div id="collocation-list" class="collocation-list"></div>
-            </article>
+              <section class="coach-card progress-card">
+                <p class="section-kicker">Tiến độ cá nhân</p>
+                <div class="progress-title">
+                  <h3 id="overall-progress">Đã luyện 0/192 bài</h3>
+                  <span id="progress-percent">0%</span>
+                </div>
+                <div class="progress-track" aria-hidden="true"><span id="progress-bar"></span></div>
+                <div class="part-progress" id="part-progress"></div>
+              </section>
 
-            <article class="content-section wide-section">
-              <h3>Useful Sentence Frames</h3>
-              <ul id="sentence-frame-list" class="frame-list"></ul>
-            </article>
+              <section class="coach-card tips-card">
+                <p class="section-kicker">Ghi nhớ khi nói</p>
+                <h3>3 nguyên tắc giữ điểm</h3>
+                <ul>
+                  <li>Không im lặng quá 3 giây; dùng <em>Well</em> hoặc <em>Let me think</em> để giữ nhịp.</li>
+                  <li>Nếu nói sai ngữ pháp, tiếp tục triển khai ý thay vì dừng lại sửa.</li>
+                  <li>Ưu tiên câu trả lời rõ ý, có lý do và ví dụ hơn câu quá dài.</li>
+                </ul>
+              </section>
+            </aside>
           </div>
         </section>
       </main>
+
+      <footer>
+        <p>192 bài tập được tổng hợp từ mục Speaking trong tài khoản VSTEPUP của người học.</p>
+        <a href="#top">Về đầu trang ↑</a>
+      </footer>
     </div>
 
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
-
     <script src="script.js"></script>
   </body>
 </html>
